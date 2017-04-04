@@ -1,0 +1,151 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 1194
+touchDown 0 581 584
+sleep 56
+touchUp 0 581 584
+sleep 4252
+touchDown 0 701 369
+sleep 64
+touchUp 0 701 369
+sleep 4092
+touchDown 0 581 584
+sleep 68
+touchUp 0 581 584
+sleep 3514
+touchDown 0 785 554
+sleep 66
+touchUp 0 785 554
+sleep 3118
+touchDown 0 581 584
+sleep 72
+touchUp 0 581 584
+sleep 1724
+touchDown 0 698 162
+sleep 64
+touchUp 0 698 162
+sleep 1936
+touchDown 0 698 162
+sleep 64
+touchUp 0 698 162
+sleep 1996
+touchDown 0 581 584
+sleep 60
+touchUp 0 581 584
+sleep 3620
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 4293
+touchDown 0 581 584
+sleep 68
+touchUp 0 581 584
+sleep 4164
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 5814
+touchDown 0 701 369
+sleep 56
+touchUp 0 701 369
+sleep 3944
+touchDown 0 581 584
+sleep 56
+touchUp 0 581 584
+sleep 2156
+touchDown 0 1230 644
+sleep 60
+touchUp 0 1230 644
+sleep 1208
+touchDown 0 1230 644
+sleep 60
+touchUp 0 1230 644
+sleep 16963
+touchDown 0 1230 454
+sleep 60
+touchUp 0 1230 454
+sleep 18976
+touchDown 0 581 584
+sleep 64
+touchUp 0 581 584
+sleep 2124
+touchDown 0 1230 454
+sleep 68
+touchUp 0 1230 454
+sleep 18851
+touchDown 0 1230 644
+sleep 52
+touchUp 0 1230 644
+sleep 48300
+touchDown 0 701 369
+sleep 64
+touchUp 0 701 369
+sleep 9936
+touchDown 0 1149 392
+sleep 64
+touchUp 0 1149 392
+sleep 842
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 994
+touchDown 0 1149 392
+sleep 70
+touchUp 0 1149 392
+sleep 934
+touchDown 0 1149 392
+sleep 72
+touchUp 0 1149 392
+sleep 2268
+touchDown 0 1149 392
+sleep 78
+touchUp 0 1149 392
+sleep 966
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 972
+touchDown 0 1149 392
+sleep 72
+touchUp 0 1149 392
+sleep 932
+touchDown 0 1149 392
+sleep 72
+touchUp 0 1149 392
+sleep 896
+touchDown 0 1149 392
+sleep 56
+touchUp 0 1149 392
+sleep 912
+touchDown 0 1148 393
+sleep 72
+touchUp 0 1148 393
+sleep 980
+touchDown 0 1149 392
+sleep 60
+touchUp 0 1149 392
+sleep 964
+touchDown 0 1149 392
+sleep 64
+touchUp 0 1149 392
+sleep 972
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 1032
+touchDown 0 1149 392
+sleep 68
+touchUp 0 1149 392
+sleep 900
+touchDown 0 1149 392
+sleep 76
+touchUp 0 1149 392
+sleep 2924
+touchDown 0 962 519
+sleep 76
+touchUp 0 962 519
+
+
+:end
