@@ -1,0 +1,149 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 4164 
+ touchDown 0 584 583
+sleep 362 
+ touchUp 0 584 583
+sleep 5094 
+ touchDown 0 785 544
+sleep 440 
+ touchUp 0 785 544
+sleep 4536 
+ touchDown 0 584 583
+sleep 500 
+ touchUp 0 584 583
+sleep 4760 
+ touchDown 0 724 533
+sleep 428 
+ touchUp 0 724 533
+sleep 3886 
+ touchDown 0 584 583
+sleep 464 
+ touchUp 0 584 583
+sleep 5536 
+ touchDown 0 790 371
+sleep 464 
+ touchUp 0 790 371
+sleep 4536 
+ touchDown 0 584 583
+sleep 464 
+ touchUp 0 584 583
+sleep 4993 
+ touchDown 0 1083 392
+sleep 347 
+ touchUp 0 1083 392
+sleep 4829 
+ touchDown 0 363 376
+sleep 324 
+ touchUp 0 363 376
+sleep 4092 
+ touchDown 0 1083 392
+sleep 380 
+ touchUp 0 1083 392
+sleep 9046 
+ touchDown 0 99 636
+sleep 520 
+ touchUp 0 99 636
+sleep 10057 
+ touchDown 0 1232 635
+sleep 72 
+ touchUp 0 1232 635
+sleep 63099 
+ touchDown 0 146 43
+sleep 257 
+ touchUp 0 146 43
+sleep 708 
+ touchDown 0 146 43
+sleep 180 
+ touchUp 0 146 43
+sleep 732 
+ touchDown 0 146 43
+sleep 168 
+ touchUp 0 146 43
+sleep 3812 
+ touchDown 0 100 631
+sleep 5 
+ touchMove 0 100 630
+sleep 25 
+ touchMove 0 101 630
+sleep 5 
+ touchMove 0 100 630
+sleep 6 
+ touchMove 0 101 630
+sleep 189 
+ touchMove 0 102 630
+sleep 172 
+ touchUp 0 102 630
+sleep 4094 
+ touchDown 0 146 43
+sleep 164 
+ touchUp 0 146 43
+sleep 544 
+ touchDown 0 146 43
+sleep 136 
+ touchUp 0 146 43
+sleep 492 
+ touchDown 0 146 43
+sleep 120 
+ touchUp 0 146 43
+sleep 592 
+ touchDown 0 146 43
+sleep 132 
+ touchUp 0 146 43
+sleep 548 
+ touchDown 0 146 43
+sleep 128 
+ touchUp 0 146 43
+sleep 536 
+ touchDown 0 146 43
+sleep 104 
+ touchUp 0 146 43
+sleep 568 
+ touchDown 0 146 43
+sleep 108 
+ touchUp 0 146 43
+sleep 434 
+ touchDown 0 1083 392
+sleep 306 
+ touchUp 0 1083 392
+sleep 904 
+ touchDown 0 146 43
+sleep 150 
+ touchUp 0 146 43
+sleep 606 
+ touchDown 0 146 43
+sleep 142 
+ touchUp 0 146 43
+sleep 560 
+ touchDown 0 146 43
+sleep 140 
+ touchUp 0 146 43
+sleep 640 
+ touchDown 0 146 43
+sleep 156 
+ touchUp 0 146 43
+sleep 534 
+ touchDown 0 146 43
+sleep 170 
+ touchUp 0 146 43
+sleep 480 
+ touchDown 0 146 43
+sleep 144 
+ touchUp 0 146 43
+sleep 510 
+ touchDown 0 146 43
+sleep 162 
+ touchUp 0 146 43
+sleep 533 
+ touchDown 0 146 43
+sleep 115 
+ touchUp 0 146 43
+sleep 1309 
+ touchDown 0 1083 392
+sleep 280 
+ touchUp 0 1083 392
+
+
+:end

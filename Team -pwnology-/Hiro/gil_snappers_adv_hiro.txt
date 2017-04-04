@@ -1,0 +1,83 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 1770 
+ touchDown 0 796 396
+sleep 110 
+ touchUp 0 796 396
+sleep 3312 
+ touchDown 0 769 553
+sleep 96 
+ touchUp 0 769 553
+sleep 3760 
+ touchDown 0 776 391
+sleep 112 
+ touchUp 0 776 391
+sleep 4104 
+ touchDown 0 739 243
+sleep 104 
+ touchUp 0 739 243
+sleep 3247 
+ touchDown 0 739 243
+sleep 88 
+ touchUp 0 739 243
+sleep 3008 
+ touchDown 0 1101 350
+sleep 128 
+ touchUp 0 1101 350
+sleep 5344 
+ touchDown 0 351 378
+sleep 112 
+ touchUp 0 351 378
+sleep 5360 
+ touchDown 0 1087 358
+sleep 120 
+ touchUp 0 1087 358
+sleep 15318 
+ touchDown 0 1232 632
+sleep 66 
+ touchUp 0 1232 632
+sleep 76415 
+ touchDown 0 741 377
+sleep 128 
+ touchUp 0 741 377
+sleep 4312 
+ touchDown 0 741 377
+sleep 160 
+ touchUp 0 741 377
+sleep 944 
+ touchDown 0 741 377
+sleep 160 
+ touchUp 0 741 377
+sleep 1328 
+ touchDown 0 1041 366
+sleep 152 
+ touchUp 0 1041 366
+sleep 3320 
+ touchDown 0 737 375
+sleep 136 
+ touchUp 0 737 375
+sleep 5128 
+ touchDown 0 1133 369
+sleep 136 
+ touchUp 0 1133 369
+sleep 1496 
+ touchDown 0 1133 369
+sleep 152 
+ touchUp 0 1133 369
+sleep 1392 
+ touchDown 0 1133 369
+sleep 184 
+ touchUp 0 1133 369
+sleep 1008 
+ touchDown 0 1133 369
+sleep 104 
+ touchUp 0 1133 369
+sleep 2600 
+ touchDown 0 1058 368
+sleep 136 
+ touchUp 0 1058 368
+
+
+:end

@@ -1,0 +1,97 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 2642 
+ touchDown 0 634 382
+sleep 102 
+ touchUp 0 634 382
+sleep 3424 
+ touchDown 0 769 547
+sleep 128 
+ touchUp 0 769 547
+sleep 3232 
+ touchDown 0 617 383
+sleep 88 
+ touchUp 0 617 383
+sleep 4056 
+ touchDown 0 739 245
+sleep 120 
+ touchUp 0 739 245
+sleep 3072 
+ touchDown 0 611 376
+sleep 64 
+ touchUp 0 611 376
+sleep 2360 
+ touchDown 0 744 242
+sleep 79 
+ touchUp 0 744 242
+sleep 2472 
+ touchDown 0 1107 369
+sleep 104 
+ touchUp 0 1107 369
+sleep 5736 
+ touchDown 0 354 375
+sleep 144 
+ touchUp 0 354 375
+sleep 5056 
+ touchDown 0 1083 366
+sleep 176 
+ touchUp 0 1083 366
+sleep 14408 
+ touchDown 0 1228 628
+sleep 80 
+ touchUp 0 1228 628
+sleep 112630 
+ touchDown 0 744 371
+sleep 144 
+ touchUp 0 744 371
+sleep 704 
+ touchDown 0 744 371
+sleep 128 
+ touchUp 0 744 371
+sleep 296 
+ touchDown 0 744 371
+sleep 112 
+ touchUp 0 744 371
+sleep 3512 
+ touchDown 0 1060 364
+sleep 152 
+ touchUp 0 1060 364
+sleep 3104 
+ touchDown 0 740 370
+sleep 120 
+ touchUp 0 740 370
+sleep 1496 
+ touchDown 0 740 370
+sleep 160 
+ touchUp 0 740 370
+sleep 1248 
+ touchDown 0 740 370
+sleep 168 
+ touchUp 0 740 370
+sleep 1296 
+ touchDown 0 1130 365
+sleep 152 
+ touchUp 0 1130 365
+sleep 728 
+ touchDown 0 1130 365
+sleep 200 
+ touchUp 0 1130 365
+sleep 576 
+ touchDown 0 1130 365
+sleep 160 
+ touchUp 0 1130 365
+sleep 1328 
+ touchDown 0 1130 365
+sleep 128 
+ touchUp 0 1130 365
+sleep 2360 
+ touchDown 0 1047 364
+sleep 112 
+ touchUp 0 1047 364
+sleep 88 
+ touchDown 0 1047 364
+
+
+:end

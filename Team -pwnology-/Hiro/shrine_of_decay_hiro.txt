@@ -1,0 +1,12879 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 1492
+touchDown 0 428 393
+sleep 116
+touchUp 0 428 393
+sleep 2522
+touchDown 0 1123 373
+sleep 126
+touchUp 0 1123 373
+sleep 2872
+touchDown 0 428 393
+sleep 112
+touchUp 0 428 393
+sleep 5624
+touchDown 0 1123 373
+sleep 72
+touchUp 0 1123 373
+sleep 79
+touchDown 0 1123 373
+sleep 73
+touchUp 0 1123 373
+sleep 17415
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 483
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 498
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 505
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 521
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 483
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 13
+touchUp 0 131 61
+sleep 493
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 519
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 488
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 14
+touchUp 0 131 61
+sleep 499
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 520
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 535
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 469
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 499
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6586
+touchUp 0 131 61
+sleep 5
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 5
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 5
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 5
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 5
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 5
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 5
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 5
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 1451
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 1892
+touchDown 0 131 61
+sleep 72
+touchUp 0 131 61
+sleep 952
+touchDown 0 1230 646
+sleep 96
+touchUp 0 1230 646
+sleep 1664
+touchDown 0 1230 646
+sleep 216
+touchUp 0 1230 646
+sleep 552
+touchDown 0 1230 646
+sleep 168
+touchUp 0 1230 646
+sleep 516
+touchDown 0 1092 364
+sleep 128
+touchUp 0 1092 364
+sleep 1312
+touchDown 0 1098 352
+sleep 104
+touchUp 0 1098 352
+sleep 744
+touchDown 0 1098 352
+sleep 104
+touchUp 0 1098 352
+sleep 624
+touchDown 0 1098 352
+sleep 64
+touchUp 0 1098 352
+sleep 848
+touchDown 0 595 561
+sleep 120
+touchUp 0 595 561
+sleep 656
+touchDown 0 595 561
+sleep 88
+touchUp 0 595 561
+sleep 2392
+touchDown 0 166 371
+sleep 144
+touchUp 0 166 371
+sleep 1832
+touchDown 0 166 371
+sleep 144
+touchUp 0 166 371
+sleep 1768
+touchDown 0 166 371
+sleep 136
+touchUp 0 166 371
+sleep 1912
+touchDown 0 166 371
+sleep 136
+touchUp 0 166 371
+sleep 1520
+touchDown 0 166 371
+sleep 120
+touchUp 0 166 371
+sleep 1536
+touchDown 0 166 371
+sleep 152
+touchUp 0 166 371
+sleep 1520
+touchDown 0 166 371
+sleep 145
+touchUp 0 166 371
+sleep 1447
+touchDown 0 166 371
+sleep 144
+touchUp 0 166 371
+sleep 2048
+touchDown 0 535 697
+sleep 128
+touchUp 0 535 697
+sleep 1864
+touchDown 0 616 571
+sleep 64
+touchUp 0 616 571
+sleep 1120
+touchDown 0 795 483
+sleep 96
+touchUp 0 795 483
+sleep 1392
+touchDown 0 601 697
+sleep 112
+touchUp 0 601 697
+sleep 1656
+touchDown 0 610 701
+sleep 120
+touchUp 0 610 701
+sleep 1256
+touchDown 0 414 554
+sleep 128
+touchUp 0 414 554
+sleep 1448
+touchDown 0 512 401
+sleep 104
+touchUp 0 512 401
+sleep 1608
+touchDown 0 693 440
+sleep 72
+touchUp 0 693 440
+sleep 1440
+touchDown 0 507 238
+sleep 80
+touchUp 0 507 238
+sleep 1512
+touchDown 0 615 201
+sleep 88
+touchUp 0 615 201
+sleep 1759
+touchDown 0 1053 307
+sleep 129
+touchUp 0 1053 307
+sleep 1864
+touchDown 0 1130 371
+sleep 128
+touchUp 0 1130 371
+sleep 1975
+touchDown 0 803 576
+sleep 104
+touchUp 0 803 576
+sleep 1784
+touchDown 0 1034 369
+sleep 136
+touchUp 0 1034 369
+sleep 1640
+touchDown 0 1130 371
+sleep 128
+touchUp 0 1130 371
+sleep 2152
+touchDown 0 1130 371
+sleep 96
+touchUp 0 1130 371
+sleep 2016
+touchDown 0 1130 371
+sleep 144
+touchUp 0 1130 371
+sleep 1722
+touchDown 0 1130 371
+sleep 110
+touchUp 0 1130 371
+sleep 1416
+touchDown 0 610 2
+sleep 112
+touchUp 0 610 2
+sleep 1944
+touchDown 0 612 13
+sleep 104
+touchUp 0 612 13
+sleep 1840
+touchDown 0 492 57
+sleep 120
+touchUp 0 492 57
+sleep 1464
+touchDown 0 603 100
+sleep 104
+touchUp 0 603 100
+sleep 1648
+touchDown 0 595 188
+sleep 128
+touchUp 0 595 188
+sleep 856
+touchDown 0 595 188
+sleep 88
+touchUp 0 595 188
+sleep 1704
+touchDown 0 147 356
+sleep 112
+touchUp 0 147 356
+sleep 2088
+touchDown 0 147 356
+sleep 152
+touchUp 0 147 356
+sleep 1816
+touchDown 0 147 356
+sleep 168
+touchUp 0 147 356
+sleep 1768
+touchDown 0 214 402
+sleep 72
+touchUp 0 214 402
+sleep 1760
+touchDown 0 563 600
+sleep 80
+touchUp 0 563 600
+sleep 1552
+touchDown 0 230 233
+sleep 88
+touchUp 0 230 233
+sleep 2144
+touchDown 0 629 45
+sleep 112
+touchUp 0 629 45
+sleep 2376
+touchDown 0 849 191
+sleep 120
+touchUp 0 849 191
+sleep 1584
+touchDown 0 782 369
+sleep 104
+touchUp 0 782 369
+sleep 1520
+touchDown 0 607 12
+sleep 104
+touchUp 0 607 12
+sleep 1800
+touchDown 0 607 12
+sleep 88
+touchUp 0 607 12
+sleep 1928
+touchDown 0 1103 306
+sleep 112
+touchUp 0 1103 306
+sleep 1992
+touchDown 0 818 176
+sleep 104
+touchUp 0 818 176
+sleep 1784
+touchDown 0 407 566
+sleep 88
+touchUp 0 407 566
+sleep 1336
+touchDown 0 129 382
+sleep 114
+touchUp 0 129 382
+sleep 2198
+touchDown 0 597 689
+sleep 143
+touchUp 0 597 689
+sleep 1880
+touchDown 0 597 689
+sleep 121
+touchUp 0 597 689
+sleep 1583
+touchDown 0 390 533
+sleep 120
+touchUp 0 390 533
+sleep 1361
+touchDown 0 231 362
+sleep 135
+touchUp 0 231 362
+sleep 3065
+touchDown 0 135 353
+sleep 95
+touchUp 0 135 353
+sleep 2048
+touchDown 0 226 362
+sleep 88
+touchUp 0 226 362
+sleep 2128
+touchDown 0 612 690
+sleep 88
+touchUp 0 612 690
+sleep 1976
+touchDown 0 1067 516
+sleep 120
+touchUp 0 1067 516
+sleep 2112
+touchDown 0 851 402
+sleep 96
+touchUp 0 851 402
+sleep 2480
+touchDown 0 610 641
+sleep 104
+touchUp 0 610 641
+sleep 1552
+touchDown 0 1126 374
+sleep 104
+touchUp 0 1126 374
+sleep 2304
+touchDown 0 677 371
+sleep 120
+touchUp 0 677 371
+sleep 1232
+touchDown 0 766 411
+sleep 80
+touchUp 0 766 411
+sleep 1744
+touchDown 0 989 357
+sleep 136
+touchUp 0 989 357
+sleep 2056
+touchDown 0 989 356
+sleep 96
+touchUp 0 989 356
+sleep 2120
+touchDown 0 989 356
+sleep 128
+touchUp 0 989 356
+sleep 1808
+touchDown 0 989 356
+sleep 152
+touchUp 0 989 356
+sleep 1656
+touchDown 0 502 640
+sleep 120
+touchUp 0 502 640
+sleep 1632
+touchDown 0 546 364
+sleep 64
+touchUp 0 546 364
+sleep 1456
+touchDown 0 693 209
+sleep 96
+touchUp 0 693 209
+sleep 1288
+touchDown 0 594 126
+sleep 168
+touchUp 0 594 126
+sleep 904
+touchDown 0 659 368
+sleep 72
+touchUp 0 659 368
+sleep 1224
+touchDown 0 617 75
+sleep 72
+touchUp 0 617 75
+sleep 1704
+touchDown 0 161 334
+sleep 144
+touchUp 0 161 334
+sleep 2088
+touchDown 0 161 334
+sleep 128
+touchUp 0 161 334
+sleep 2216
+touchDown 0 161 334
+sleep 168
+touchUp 0 161 334
+sleep 2152
+touchDown 0 540 295
+sleep 72
+touchUp 0 540 295
+sleep 1664
+touchDown 0 135 368
+sleep 143
+touchUp 0 135 368
+sleep 1936
+touchDown 0 520 359
+sleep 8
+touchMove 0 520 360
+sleep 88
+touchUp 0 520 360
+sleep 1520
+touchDown 0 489 44
+sleep 104
+touchUp 0 489 44
+sleep 2161
+touchDown 0 153 346
+sleep 103
+touchUp 0 153 346
+sleep 2272
+touchDown 0 361 58
+sleep 113
+touchUp 0 361 58
+sleep 1776
+touchDown 0 923 153
+sleep 80
+touchUp 0 923 153
+sleep 5927
+touchDown 0 592 119
+sleep 88
+touchUp 0 592 119
+sleep 2104
+touchDown 0 592 27
+sleep 104
+touchUp 0 592 27
+sleep 1808
+touchDown 0 592 27
+sleep 104
+touchUp 0 592 27
+sleep 1712
+touchDown 0 592 27
+sleep 152
+touchUp 0 592 27
+sleep 1848
+touchDown 0 592 27
+sleep 128
+touchUp 0 592 27
+sleep 1768
+touchDown 0 166 368
+sleep 120
+touchUp 0 166 368
+sleep 1640
+touchDown 0 203 368
+sleep 120
+touchUp 0 203 368
+sleep 1864
+touchDown 0 616 32
+sleep 96
+touchUp 0 616 32
+sleep 1584
+touchDown 0 616 32
+sleep 120
+touchUp 0 616 32
+sleep 2193
+touchDown 0 679 362
+sleep 87
+touchUp 0 679 362
+sleep 2413
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 14
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 529
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 482
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 11
+touchUp 0 1230 646
+sleep 481
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 520
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 18
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 493
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 514
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 486
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 483
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 525
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 477
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 520
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 513
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 493
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 532
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 475
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 483
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 13
+touchUp 0 1230 646
+sleep 484
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 519
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 492
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 508
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 500
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 513
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 492
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 504
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 503
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 523
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 476
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 502
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 501
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 519
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 502
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 501
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 507
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 485
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 498
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 510
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 493
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 504
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 503
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 518
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 491
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 516
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 517
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 481
+touchDown 0 1230 646
+sleep 4
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 489
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 500
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 490
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 505
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 494
+touchDown 0 131 61
+sleep 4
+touchUp 0 131 61
+sleep 515
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 496
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 511
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 495
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 517
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 486
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 514
+touchDown 0 1230 646
+sleep 6
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 6
+touchUp 0 131 61
+sleep 506
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 492
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 512
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 497
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 509
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 488
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 508
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 499
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 513
+touchDown 0 1230 646
+sleep 5
+touchUp 0 1230 646
+sleep 487
+touchDown 0 131 61
+sleep 5
+touchUp 0 131 61
+sleep 1194
+touchDown 0 1230 646
+sleep 64
+touchUp 0 1230 646
+sleep 2980
+touchDown 0 607 12
+sleep 128
+touchUp 0 607 12
+sleep 1816
+touchDown 0 610 12
+sleep 104
+touchUp 0 610 12
+sleep 1488
+touchDown 0 610 12
+sleep 96
+touchUp 0 610 12
+sleep 1128
+touchDown 0 965 348
+sleep 96
+touchUp 0 965 348
+sleep 1296
+touchDown 0 604 91
+sleep 128
+touchUp 0 604 91
+sleep 848
+touchDown 0 606 85
+sleep 88
+touchUp 0 606 85
+sleep 1424
+touchDown 0 1099 352
+sleep 88
+touchUp 0 1099 352
+sleep 1616
+touchDown 0 615 66
+sleep 128
+touchUp 0 615 66
+sleep 800
+touchDown 0 615 66
+sleep 103
+touchUp 0 615 66
+sleep 1329
+touchDown 0 1035 355
+sleep 152
+touchUp 0 1035 355
+sleep 2103
+touchDown 0 1035 355
+sleep 113
+touchUp 0 1035 355
+sleep 1503
+touchDown 0 1035 355
+sleep 112
+touchUp 0 1035 355
+sleep 1600
+touchDown 0 1035 355
+sleep 112
+touchUp 0 1035 355
+sleep 1568
+touchDown 0 1035 355
+sleep 129
+touchUp 0 1035 355
+sleep 1575
+touchDown 0 1035 355
+sleep 160
+touchUp 0 1035 355
+sleep 1440
+touchDown 0 1035 355
+sleep 176
+touchUp 0 1035 355
+sleep 1360
+touchDown 0 1035 355
+sleep 176
+touchUp 0 1035 355
+sleep 1408
+touchDown 0 1035 355
+sleep 152
+touchUp 0 1035 355
+sleep 1104
+touchDown 0 1035 355
+sleep 128
+touchUp 0 1035 355
+sleep 1321
+touchDown 0 588 706
+sleep 103
+touchUp 0 588 706
+sleep 1312
+touchDown 0 599 600
+sleep 104
+touchUp 0 599 600
+sleep 1448
+touchDown 0 746 563
+sleep 112
+touchUp 0 746 563
+sleep 1648
+touchDown 0 671 683
+sleep 136
+touchUp 0 671 683
+sleep 2344
+touchDown 0 595 671
+sleep 176
+touchMove 0 595 672
+sleep 8
+touchUp 0 595 672
+sleep 1296
+touchDown 0 595 672
+sleep 120
+touchUp 0 595 672
+sleep 1400
+touchDown 0 145 361
+sleep 144
+touchUp 0 145 361
+sleep 1824
+touchDown 0 140 240
+sleep 120
+touchUp 0 140 240
+sleep 2024
+touchDown 0 145 378
+sleep 96
+touchUp 0 145 378
+sleep 1936
+touchDown 0 453 130
+sleep 96
+touchUp 0 453 130
+sleep 1792
+touchDown 0 414 153
+sleep 88
+touchUp 0 414 153
+sleep 2128
+touchDown 0 603 31
+sleep 128
+touchUp 0 603 31
+sleep 1520
+touchDown 0 617 31
+sleep 96
+touchUp 0 617 31
+sleep 1776
+touchDown 0 1113 300
+sleep 128
+touchUp 0 1113 300
+sleep 2200
+touchDown 0 1010 169
+sleep 96
+touchUp 0 1010 169
+sleep 1984
+touchDown 0 367 561
+sleep 120
+touchUp 0 367 561
+sleep 1696
+touchDown 0 138 370
+sleep 128
+touchMove 0 138 371
+sleep 8
+touchUp 0 138 371
+sleep 1712
+touchDown 0 400 396
+sleep 88
+touchUp 0 400 396
+sleep 2048
+touchDown 0 593 700
+sleep 128
+touchUp 0 593 700
+sleep 1912
+touchDown 0 593 700
+sleep 111
+touchUp 0 593 700
+sleep 1873
+touchDown 0 367 648
+sleep 120
+touchUp 0 367 648
+sleep 2175
+touchDown 0 422 571
+sleep 121
+touchUp 0 422 571
+sleep 1951
+touchDown 0 157 368
+sleep 153
+touchUp 0 157 368
+sleep 2071
+touchDown 0 157 368
+sleep 113
+touchUp 0 157 368
+sleep 2199
+touchDown 0 629 47
+sleep 112
+touchUp 0 629 47
+sleep 2176
+touchDown 0 139 236
+sleep 136
+touchUp 0 139 236
+sleep 2600
+touchDown 0 168 357
+sleep 152
+touchUp 0 168 357
+sleep 1936
+touchDown 0 168 357
+sleep 120
+touchUp 0 168 357
+sleep 2088
+touchDown 0 285 59
+sleep 128
+touchUp 0 285 59
+sleep 2184
+touchDown 0 237 635
+sleep 112
+touchUp 0 237 635
+sleep 1880
+touchDown 0 184 382
+sleep 88
+touchUp 0 184 382
+sleep 1753
+touchDown 0 340 114
+sleep 95
+touchUp 0 340 114
+sleep 1960
+touchDown 0 612 21
+sleep 120
+touchUp 0 612 21
+sleep 1696
+touchDown 0 612 21
+sleep 112
+touchUp 0 612 21
+sleep 1584
+touchDown 0 555 36
+sleep 80
+touchUp 0 555 36
+sleep 1840
+touchDown 0 657 704
+sleep 96
+touchUp 0 657 704
+sleep 1992
+touchDown 0 586 697
+sleep 104
+touchUp 0 586 697
+sleep 1595
+touchDown 0 586 697
+sleep 133
+touchUp 0 586 697
+sleep 1736
+touchDown 0 588 623
+sleep 64
+touchUp 0 588 623
+sleep 1648
+touchDown 0 121 382
+sleep 128
+touchUp 0 121 382
+sleep 2592
+touchDown 0 154 391
+sleep 96
+touchUp 0 154 391
+sleep 1088
+touchDown 0 152 375
+sleep 152
+touchUp 0 152 375
+sleep 880
+touchDown 0 152 375
+sleep 112
+touchUp 0 152 375
+sleep 1848
+touchDown 0 356 131
+sleep 88
+touchUp 0 356 131
+sleep 64
+touchDown 0 356 131
+sleep 88
+touchUp 0 356 131
+sleep 744
+touchDown 0 356 131
+sleep 80
+touchUp 0 356 131
+sleep 2792
+touchDown 0 355 135
+sleep 96
+touchUp 0 355 135
+sleep 4896
+touchDown 0 359 119
+sleep 128
+touchUp 0 359 119
+sleep 719
+touchDown 0 359 119
+sleep 88
+touchUp 0 359 119
+sleep 624
+touchDown 0 359 119
+sleep 66
+touchUp 0 359 119
+sleep 7118
+touchDown 0 1227 630
+sleep 89
+touchUp 0 1227 630
+sleep 82943
+touchDown 0 644 356
+sleep 87
+touchUp 0 644 356
+sleep 1456
+touchDown 0 629 376
+sleep 88
+touchUp 0 629 376
+sleep 496
+touchDown 0 611 376
+sleep 88
+touchUp 0 611 376
+sleep 200
+touchDown 0 611 376
+sleep 104
+touchUp 0 611 376
+sleep 152
+touchDown 0 611 376
+sleep 104
+touchUp 0 611 376
+sleep 216
+touchDown 0 611 376
+sleep 72
+touchUp 0 611 376
+sleep 104
+touchDown 0 611 376
+sleep 96
+touchUp 0 611 376
+sleep 96
+touchDown 0 611 376
+sleep 72
+touchUp 0 611 376
+sleep 96
+touchDown 0 611 376
+sleep 72
+touchUp 0 611 376
+sleep 104
+touchDown 0 611 376
+sleep 120
+touchUp 0 611 376
+sleep 720
+touchDown 0 602 364
+sleep 88
+touchUp 0 602 364
+sleep 584
+touchDown 0 602 364
+sleep 104
+touchUp 0 602 364
+sleep 752
+touchDown 0 602 364
+sleep 120
+touchUp 0 602 364
+sleep 1600
+touchDown 0 602 364
+sleep 216
+touchUp 0 602 364
+sleep 1240
+touchDown 0 602 364
+sleep 144
+touchUp 0 602 364
+sleep 864
+touchDown 0 602 364
+sleep 144
+touchUp 0 602 364
+sleep 928
+touchDown 0 602 364
+sleep 88
+touchUp 0 602 364
+sleep 1488
+touchDown 0 475 130
+sleep 136
+touchUp 0 475 130
+sleep 1112
+touchDown 0 475 130
+sleep 133
+touchUp 0 475 130
+sleep 1218
+touchDown 0 475 130
+sleep 137
+touchUp 0 475 130
+sleep 959
+touchDown 0 475 130
+sleep 113
+touchUp 0 475 130
+sleep 6983
+touchDown 0 475 130
+sleep 160
+touchUp 0 475 130
+sleep 864
+touchDown 0 475 130
+sleep 144
+touchUp 0 475 130
+sleep 968
+touchDown 0 475 130
+sleep 144
+touchUp 0 475 130
+sleep 5784
+touchDown 0 778 371
+sleep 136
+touchUp 0 778 371
+sleep 1112
+touchDown 0 778 371
+sleep 120
+touchUp 0 778 371
+sleep 840
+touchDown 0 613 371
+sleep 88
+touchUp 0 613 371
+sleep 1472
+touchDown 0 772 376
+sleep 104
+touchUp 0 772 376
+sleep 1224
+touchDown 0 618 376
+sleep 160
+touchUp 0 618 376
+sleep 1431
+touchDown 0 773 373
+sleep 105
+touchUp 0 773 373
+sleep 1488
+touchDown 0 622 373
+sleep 120
+touchUp 0 622 373
+sleep 876
+touchDown 0 773 371
+sleep 124
+touchUp 0 773 371
+sleep 1984
+touchDown 0 1123 373
+sleep 112
+touchUp 0 1123 373
+sleep 2240
+touchDown 0 735 380
+sleep 137
+touchUp 0 735 380
+sleep 1535
+touchDown 0 735 380
+sleep 136
+touchUp 0 735 380
+sleep 1240
+touchDown 0 735 380
+sleep 152
+touchUp 0 735 380
+sleep 1128
+touchDown 0 735 380
+sleep 152
+touchUp 0 735 380
+sleep 880
+touchDown 0 735 380
+sleep 176
+touchUp 0 735 380
+sleep 1176
+touchDown 0 735 380
+sleep 152
+touchUp 0 735 380
+sleep 1304
+touchDown 0 735 380
+sleep 136
+touchUp 0 735 380
+sleep 952
+touchDown 0 735 380
+sleep 184
+touchUp 0 735 380
+sleep 1440
+touchDown 0 735 380
+sleep 120
+touchUp 0 735 380
+sleep 3192
+touchDown 0 1123 373
+sleep 144
+touchUp 0 1123 373
+sleep 7408
+touchDown 0 782 534
+sleep 136
+touchUp 0 782 534
+sleep 4567
+touchDown 0 782 534
+sleep 112
+touchUp 0 782 534
+sleep 4704
+touchDown 0 782 534
+sleep 112
+touchUp 0 782 534
+sleep 2360
+touchDown 0 782 534
+sleep 152
+touchUp 0 782 534
+sleep 2272
+touchDown 0 782 534
+sleep 152
+touchUp 0 782 534
+sleep 2048
+touchDown 0 782 534
+sleep 200
+touchUp 0 782 534
+sleep 3624
+touchDown 0 248 657
+sleep 168
+touchUp 0 248 657
+sleep 8024
+touchDown 0 248 657
+
+
+:end
