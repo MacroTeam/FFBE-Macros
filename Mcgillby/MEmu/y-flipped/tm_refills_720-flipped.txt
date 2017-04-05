@@ -1,2407 +1,1200 @@
-DEVICE: ConvertMacro 1.0
-SCREEN_SIZE: 1280x720
-
-:start
-sleep 0
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 780 461
-sleep 1
-touchUp 0 780 461
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 686 164
-sleep 1
-touchUp 0 686 164
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 1035 375
-sleep 1
-touchUp 0 1035 375
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 686 164
-sleep 1
-touchUp 0 686 164
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 780 461
-sleep 1
-touchUp 0 780 461
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1099 371
-sleep 1
-touchUp 0 1099 371
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-sleep -101
-touchDown 0 1035 375
-sleep 1
-touchUp 0 1035 375
-sleep 99
-touchDown 0 875 379
-sleep 1
-touchUp 0 875 379
-
-
-:end
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:780:461
+1000--VINPUT--MULTI:1:1:780:461
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:686:164
+1000--VINPUT--MULTI:1:1:686:164
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:1035:375
+101000--VINPUT--MULTI:1:1:1035:375
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:686:164
+1000--VINPUT--MULTI:1:1:686:164
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:780:461
+1000--VINPUT--MULTI:1:1:780:461
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1099:371
+1000--VINPUT--MULTI:1:1:1099:371
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
+100--VINPUT--MULTI:1:0:1035:375
+1000--VINPUT--MULTI:1:1:1035:375
+100100--VINPUT--MULTI:1:0:875:379
+101000--VINPUT--MULTI:1:1:875:379
