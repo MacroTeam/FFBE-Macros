@@ -4858,14 +4858,6 @@ sleep 300
 touchDown 0 720 220
 sleep 500
 touchUp 0 720 220
-sleep 100
-touchDown 0 67 690
-sleep 100
-touchUp 0 67 690
-sleep 200
-touchDown 0 80 46
-sleep 100
-touchUp 0 80 46
 
 
 :end
