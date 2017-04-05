@@ -4847,9 +4847,9 @@ touchDown 0 780 279
 sleep 1
 touchUp 0 780 279
 sleep 16
-touchDown 0 1222 643
+touchDown 0 1035 375
 sleep 100
-touchUp 0 1222 643
+touchUp 0 1035 375
 sleep 200
 touchDown 0 660 160
 sleep 500
