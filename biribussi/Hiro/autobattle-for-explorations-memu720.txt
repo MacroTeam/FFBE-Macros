@@ -1,0 +1,159 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 2172
+touchDown 0 1070 363
+sleep 132
+touchUp 0 1070 363
+sleep 855
+touchDown 0 626 368
+sleep 143
+touchUp 0 626 368
+sleep 944
+touchDown 0 176 359
+sleep 136
+touchUp 0 176 359
+sleep 872
+touchDown 0 996 363
+sleep 152
+touchUp 0 996 363
+sleep 952
+touchDown 0 626 368
+sleep 144
+touchUp 0 626 368
+sleep 944
+touchDown 0 176 359
+sleep 144
+touchUp 0 176 359
+sleep 880
+touchDown 0 996 363
+sleep 160
+touchUp 0 996 363
+sleep 928
+touchDown 0 626 368
+sleep 152
+touchUp 0 626 368
+sleep 896
+touchDown 0 176 359
+sleep 152
+touchUp 0 176 359
+sleep 928
+touchDown 0 996 363
+sleep 152
+touchUp 0 996 363
+sleep 912
+touchDown 0 626 368
+sleep 160
+touchUp 0 626 368
+sleep 888
+touchDown 0 176 359
+sleep 152
+touchUp 0 176 359
+sleep 936
+touchDown 0 996 363
+sleep 160
+touchUp 0 996 363
+sleep 872
+touchDown 0 626 368
+sleep 160
+touchUp 0 626 368
+sleep 920
+touchDown 0 176 359
+sleep 176
+touchUp 0 176 359
+sleep 888
+touchDown 0 996 363
+sleep 160
+touchUp 0 996 363
+sleep 920
+touchDown 0 626 368
+sleep 168
+touchUp 0 626 368
+sleep 840
+touchDown 0 176 359
+sleep 144
+touchUp 0 176 359
+sleep 896
+touchDown 0 996 363
+sleep 136
+touchUp 0 996 363
+sleep 872
+touchDown 0 626 368
+sleep 136
+touchUp 0 626 368
+sleep 888
+touchDown 0 176 359
+sleep 144
+touchUp 0 176 359
+sleep 864
+touchDown 0 996 363
+sleep 160
+touchUp 0 996 363
+sleep 872
+touchDown 0 626 368
+sleep 168
+touchUp 0 626 368
+sleep 792
+touchDown 0 176 359
+sleep 136
+touchUp 0 176 359
+sleep 864
+touchDown 0 996 363
+sleep 136
+touchUp 0 996 363
+sleep 840
+touchDown 0 626 368
+sleep 144
+touchUp 0 626 368
+sleep 776
+touchDown 0 176 359
+sleep 144
+touchUp 0 176 359
+sleep 872
+touchDown 0 996 363
+sleep 152
+touchUp 0 996 363
+sleep 848
+touchDown 0 626 368
+sleep 128
+touchUp 0 626 368
+sleep 912
+touchDown 0 176 359
+sleep 128
+touchUp 0 176 359
+sleep 904
+touchDown 0 996 363
+sleep 136
+touchUp 0 996 363
+sleep 904
+touchDown 0 626 368
+sleep 144
+touchUp 0 626 368
+sleep 848
+touchDown 0 176 359
+sleep 128
+touchUp 0 176 359
+sleep 936
+touchDown 0 996 363
+sleep 144
+touchUp 0 996 363
+sleep 904
+touchDown 0 626 368
+sleep 144
+touchUp 0 626 368
+sleep 808
+touchDown 0 176 359
+sleep 144
+touchUp 0 176 359
+sleep 832
+touchDown 0 996 363
+sleep 144
+touchUp 0 996 363
+sleep 888
+touchDown 0 626 368
+sleep 152
+touchUp 0 626 368
+
+
+:end
