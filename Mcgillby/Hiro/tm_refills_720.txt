@@ -4,2403 +4,2403 @@ SCREEN_SIZE: 1280x720
 :start
 sleep 0
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
-touchDown 0 780 461
-sleep 1
-touchUp 0 780 461
-sleep 99
+sleep -110
+touchDown 0 777 458
+sleep 10
+touchUp 0 777 458
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 686 164
-sleep 1
+sleep 10
 touchUp 0 686 164
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 1035 375
-sleep 1
+sleep 10
 touchUp 0 1035 375
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 686 164
-sleep 1
+sleep 10
 touchUp 0 686 164
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
-touchDown 0 780 461
-sleep 1
-touchUp 0 780 461
-sleep 99
+sleep -110
+touchDown 0 777 458
+sleep 10
+touchUp 0 777 458
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1099 371
-sleep 1
+sleep 10
 touchUp 0 1099 371
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
-sleep -101
+sleep -110
 touchDown 0 1035 375
-sleep 1
+sleep 10
 touchUp 0 1035 375
-sleep 99
+sleep 90
 touchDown 0 875 379
-sleep 1
+sleep 10
 touchUp 0 875 379
 
 
