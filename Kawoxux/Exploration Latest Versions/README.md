@@ -11,13 +11,9 @@ Refill/No Refill will be specified in Notes (At present only refill scripts are 
 
 
 Naming Format: "StageName".v"Version Number"."Format"."Date"
-
 NRG Cost: "Cost"
-
 RunTime: "Mins/Seconds"
-
 NRG Neutral Delay = "Seconds"
-
 "Notes"
 
 
