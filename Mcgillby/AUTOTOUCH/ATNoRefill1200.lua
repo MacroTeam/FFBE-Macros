@@ -1,0 +1,23 @@
+CREATE_TIME=2017-03-10-17-43-00;
+SCREEN_SIZE="1200x1920";
+
+touchDown(0, 568, 1750);
+usleep(92000);
+touchUp(0);
+usleep(92000);
+touchDown(0, 380, 1335);
+usleep(92000);
+touchUp(0);
+usleep(92000);
+touchDown(0, 660, 1170);
+usleep(92000);
+touchUp(0);
+usleep(92000);
+touchDown(0, 568, 1750);
+usleep(92000);
+touchUp(0);
+usleep(92000);
+touchDown(0, 380, 1335);
+usleep(92000);
+touchUp(0);
+usleep(92000);
