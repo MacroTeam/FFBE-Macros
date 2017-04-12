@@ -43,7 +43,7 @@ waitList[index] = 0.250000
 index = index + 1
 
 ------ 8 -----
-touchList[index] = {"click", Location(617, 1148)}
+touchList[index] = {"click", Location(822, 1530)}
 waitList[index] = 0.250000
 index = index + 1
 
