@@ -31,3 +31,28 @@ index = index + 1
 touchList[index] = {"click", Location(668,1800)}
 waitList[index] = 0.250000
 index = index + 1
+
+------ 6 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 7 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 8 -----
+touchList[index] = {"click", Location(617, 1148)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 9 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 10 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1
