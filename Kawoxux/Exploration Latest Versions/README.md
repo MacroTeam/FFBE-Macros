@@ -19,7 +19,7 @@ NRG Neutral Delay = "Seconds"
 
 Scripts:
 
-MagicLibrary.v1.2.Nox.170411
+MagicLibrary.v1.3.170413.Nox
 
 NRG Cost
 
