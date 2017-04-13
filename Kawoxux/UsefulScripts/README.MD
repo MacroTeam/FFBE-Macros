@@ -1,3 +1,4 @@
 USeful Scripts for Monotomous Tasks:
 
-EggSummons - Repeat for number of Mass Summons Required
+EggSummons.v1.N-Nox - Repeat for number of Mass Summons Required
+FPSummons.v1.N-Nox - Repeat for number of Mass Summons Required
