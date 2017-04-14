@@ -19,6 +19,9 @@
 python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 -i "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/0.0 Clear Daily Pop-up" -m \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/1.Stage Selection->ExplorationOpen" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 4s Delay" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 2s Delay" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/II.Nav0.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
