@@ -1,0 +1,3 @@
+python3 /home/mikey/Documents/code/convertMacros/convertMacros.py -i "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/Invincible Interior.txt" -o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/Invincible Interior-MEmu.txt" --outtype memu
+
+python3 /home/mikey/Documents/code/convertMacros/convertMacros.py -i "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/Invincible Interior.txt" -o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/Invincible Interior-oldnox.txt" --outtype nox
