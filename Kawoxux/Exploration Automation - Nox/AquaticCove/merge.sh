@@ -27,7 +27,7 @@ python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/AquaticCove/AC-Nav1.v2" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/AquaticCove/AC-Nav1.v3" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
