@@ -35,6 +35,6 @@ python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/MagicLibrary/MLNav2.v2" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/6. Boss" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 4s Delay" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8. Exit&Return.v2.NewNox" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8.Exit.v4" \
 -o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/MagicLibrary/Magic Library.txt" \
 --outtype nox --new-nox
