@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 CREATE_TIME=2017-04-16-10-59-56;
+=======
+CREATE_TIME=2017-04-16-10-54-50;
+>>>>>>> Updated merge scripts with new exit
 SCREEN_SIZE="720x1280";
 usleep(1880000);
 touchDown(0, 782, 535);

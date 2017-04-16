@@ -11873,6 +11873,15 @@ touchDown 0 1121 353
 sleep 36
 touchMove 0 1123 353
 sleep 85
+<<<<<<< HEAD
+=======
+touchUp 0 -1 720
+sleep 742
+touchDown 0 1148 343
+sleep 110
+touchMove 0 1146 344
+sleep 133
+>>>>>>> Updated merge scripts with new exit
 touchUp 0 -1 720
 
 
