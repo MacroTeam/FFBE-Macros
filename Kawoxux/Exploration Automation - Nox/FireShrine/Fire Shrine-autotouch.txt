@@ -11871,16 +11871,4 @@ touchDown(0, 1121, 353);
 usleep(36000);
 touchMove(0, 1123, 353);
 usleep(85000);
-<<<<<<< HEAD
-=======
 touchUp(0, -1, 720);
-<<<<<<< HEAD
-usleep(742000);
-touchDown(0, 1148, 343);
-usleep(110000);
-touchMove(0, 1146, 344);
-usleep(133000);
->>>>>>> Updated merge scripts with new exit
-touchUp(0, -1, 720);
-=======
->>>>>>> Updated with last clicks removed
