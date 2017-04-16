@@ -12022,7 +12022,7 @@ sleep 1015
 touchDown 0 1121 353
 sleep 36
 touchMove 0 1123 353
-sleep 85
+sleep 86
 touchUp 0 -1 720
 
 

@@ -11544,6 +11544,14 @@ sleep 1517
 touchDown 0 69 360
 sleep 89
 touchUp 0 -1 720
+sleep 1911
+touchDown 0 69 360
+sleep 89
+touchUp 0 -1 720
+sleep 1911
+touchDown 0 69 360
+sleep 89
+touchUp 0 -1 720
 sleep 2845
 touchDown 0 346 101
 sleep 111
@@ -11872,6 +11880,8 @@ sleep 1015
 touchDown 0 1121 353
 sleep 36
 touchMove 0 1123 353
-sleep 85
+sleep 86
 touchUp 0 -1 720
+
+
 :end

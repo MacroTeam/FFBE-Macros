@@ -1,4 +1,4 @@
-CREATE_TIME=2017-04-16-10-59-57;
+CREATE_TIME=2017-04-16-12-17-29;
 SCREEN_SIZE="720x1280";
 usleep(1880000);
 touchDown(0, 782, 535);
@@ -12020,5 +12020,5 @@ usleep(1015000);
 touchDown(0, 1121, 353);
 usleep(36000);
 touchMove(0, 1123, 353);
-usleep(85000);
+usleep(86000);
 touchUp(0, -1, 720);
