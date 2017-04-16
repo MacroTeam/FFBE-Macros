@@ -37,6 +37,6 @@ python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/FireShrine/FS-Nav2.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/6. Boss" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 4s Delay" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8.Exit.v4" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8.Exit.v6" \
 -o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/FireShrine/Fire Shrine.txt" \
 --outtype nox --new-nox

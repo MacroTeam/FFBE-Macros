@@ -11866,15 +11866,13 @@ sleep 0
 touchUp 0 -1 720
 sleep 1764
 touchDown 0 1121 355
-sleep 126
-touchMove 0 1123 353
-sleep -51
+sleep 75
 touchUp 0 -1 720
-sleep 2015
+sleep 1015
 touchDown 0 1121 353
 sleep 36
 touchMove 0 1123 353
-sleep 1085
+sleep 85
 touchUp 0 -1 720
 sleep 742
 touchDown 0 1148 343
