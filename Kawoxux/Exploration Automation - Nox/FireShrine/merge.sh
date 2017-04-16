@@ -21,24 +21,22 @@ python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/1.Stage Selection->ExplorationOpen" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 4s Delay" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 2s Delay" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/II.Nav0.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/II.Nav1.v1" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/FireShrine/FS-Nav1.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/II.Nav2.v1" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/FireShrine/FS-Nav2.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/6. Boss" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/X. 4s Delay" \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8.Exit.v5" \
--o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/InvincibleInterior/Invincible Interior.txt" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/8.Exit.v4" \
+-o "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/FireShrine/Fire Shrine.txt" \
 --outtype nox --new-nox
