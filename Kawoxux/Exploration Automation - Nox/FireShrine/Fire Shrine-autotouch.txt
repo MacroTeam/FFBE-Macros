@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 CREATE_TIME=2017-04-16-10-59-55;
-=======
-CREATE_TIME=2017-04-16-10-54-49;
->>>>>>> Updated merge scripts with new exit
 SCREEN_SIZE="720x1280";
 usleep(1880000);
 touchDown(0, 782, 535);
@@ -11878,6 +11874,7 @@ usleep(85000);
 <<<<<<< HEAD
 =======
 touchUp(0, -1, 720);
+<<<<<<< HEAD
 usleep(742000);
 touchDown(0, 1148, 343);
 usleep(110000);
@@ -11885,3 +11882,5 @@ touchMove(0, 1146, 344);
 usleep(133000);
 >>>>>>> Updated merge scripts with new exit
 touchUp(0, -1, 720);
+=======
+>>>>>>> Updated with last clicks removed
