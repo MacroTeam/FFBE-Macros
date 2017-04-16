@@ -28,7 +28,7 @@ This covers boss fight automation.
 Start Location is clicking the start fight button 
 Multiple auto button presses 3s apart to alleviate any concerns over auto-battle.
 
-7. Exploration cleanup to Exit Button
+7. Nav3 - Exploration cleanup to Exit Button
 Click Continue, Collect remaining drop points and navigate to exit
 
 8. Exit&Return
