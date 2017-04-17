@@ -2,6 +2,7 @@
 1. **[Grinding](#stage-grinding)**
 2. **[Explorations](#explorations)**
 3. **[Misc](#misc)**
+4. **[Disclaimer](#disclaimer)**
 
 # Grinding
 
@@ -26,3 +27,14 @@ Surging Volcano Exploration|14|32m07s|1820|[Link](https://raw.githubusercontent.
 Stage Name|NRG Cost|Run Time|Neutral delay (s)|Nox|MEmu|Hiro|Autotouch|FRep|AnkuLua|Last patch date|Contributors
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------
 |||||
+
+# Disclaimer
+
+Macro's are made via a series of pre-determined clicks with the goal of repeatedly performing a mundane action with little or no effort.
+At present tests are completed on Nox and Memu. Scripts designed for Hiro and AutoTouch are converted variants of the script, but are posted untested.
+
+We're not responsible if something goes haywire in your script and you lose all your lapis. 
+We're not responsible if something goes haywire in the script and you wake up with 5x Orlandeau and every TM you could ever want. 
+We're not responsible for your failures, inside or outside of FFBE
+We feel the legal complexities of trying to sue us are complex enough that it's probably cheaper to cut your losses and refill your lapis.
+
