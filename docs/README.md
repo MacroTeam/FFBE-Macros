@@ -26,6 +26,7 @@ Surging Volcano Exploration|14|32m07s|1820|[Link](https://raw.githubusercontent.
 
 Stage Name|NRG Cost|Run Time|Neutral delay (s)|Nox|MEmu|Hiro|Autotouch|FRep|AnkuLua|Last patch date|Contributors
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------
+FP Summons|n/a||n/a|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-oldnox.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-MEmu.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-hiro.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-autotouch.txt)|N/A|N/A|2017/04/17|Kawoxux, Kastyr
 |||||
 
 # Disclaimer
