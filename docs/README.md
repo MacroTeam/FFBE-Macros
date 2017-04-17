@@ -24,10 +24,11 @@ Surging Volcano Exploration|14|32m07s|1820|[Link](https://raw.githubusercontent.
 
 # Misc
 
-Stage Name|NRG Cost|Run Time|Neutral delay (s)|Nox|MEmu|Hiro|Autotouch|FRep|AnkuLua|Last patch date|Contributors
+Stage Name|Start Location|NRG Cost|Run Time|Neutral delay (s)|Nox|MEmu|Hiro|Autotouch|FRep|AnkuLua|Last patch date|Contributors
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------
-FP Summons|n/a||n/a|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-oldnox.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-MEmu.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-hiro.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-autotouch.txt)|N/A|N/A|2017/04/17|Kawoxux, Kastyr
-|||||
+FP Summons|[Pic](http://i.imgur.com/i64ZsRf.jpg)|n/a||n/a|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-oldnox.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-MEmu.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-hiro.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FPSummons.v1.N-autotouch.txt)|N/A|N/A|2017/04/17|Kawoxux, Kastyr
+FP Gift Accept|[Pic](https://github.com/MacroTeam/FFBE-Macros/blob/master/Kawoxux/UsefulScripts/FP-Gift-Accept_StartLocation.jpg?raw=true)|n/a||n/a|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FP-Gift-Accept-oldnox.v1.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FP-Gift-Accept-memu.v1.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FP-Gift-Accept-hiro.v1.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/FP-Gift-Accept-autotouch.v1.txt)|N/A|N/A|2017/04/17|Kawoxux, Kastyr
+Event Gacha Summon (Ifrit/Eggs)|[Pic](http://i.imgur.com/5KQKsVu.jpg)|n/a||n/a|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/EggSummons.v1.N-oldnox.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/EggSummons.v1.N-memu.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/EggSummons.v1.N-hiro.txt)|[Link](https://raw.githubusercontent.com/MacroTeam/FFBE-Macros/master/Kawoxux/UsefulScripts/EggSummons.v1.N-autotouch.txt)|N/A|N/A|2017/04/17|Kawoxux, Kastyr
 
 # Disclaimer
 
