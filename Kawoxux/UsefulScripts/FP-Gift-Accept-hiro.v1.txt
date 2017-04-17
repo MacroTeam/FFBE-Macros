@@ -1,0 +1,19 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 3036
+touchDown 0 288 314
+sleep 88
+touchUp 0 -1 720
+sleep 2123
+touchDown 0 279 106
+sleep 36
+touchUp 0 -1 720
+sleep 4853
+touchDown 0 279 106
+sleep 107
+touchUp 0 -1 720
+
+
+:end
