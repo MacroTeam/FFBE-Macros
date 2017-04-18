@@ -7,7 +7,7 @@
 
 
 #"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox"
-#1.Stage Selection->ExplorationOpen
+#1.Stage Selection-ExplorationOpen
 #2.4. ClearZone
 #6. Boss
 #8. Exit&Return.v2.NewNox
@@ -18,7 +18,7 @@
 
 python3 /home/mikey/Documents/code/convertMacros/mergeMacros.py \
 -i "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/0.0 Clear Daily Pop-up" -m \
-"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/1.Stage Selection->ExplorationOpen" \
+"/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/1.Stage Selection-ExplorationOpen" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/SurgingVolcano/SV-Nav0.v1" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
 "/home/mikey/Documents/code/head/FFBE-Macros/Kawoxux/Exploration Automation - Nox/2.4. ClearZone" \
