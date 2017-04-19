@@ -1,0 +1,123 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 1280x720
+
+:start
+sleep 1447
+touchDown 0 541 361
+sleep 65
+touchUp 0 -1 720
+sleep 3696
+touchDown 0 862 342
+sleep 129
+touchUp 0 -1 720
+sleep 2919
+touchDown 0 512 388
+sleep 168
+touchUp 0 -1 720
+sleep 2938
+touchDown 0 381 126
+sleep 102
+touchUp 0 -1 720
+sleep 2050
+touchDown 0 666 367
+sleep 95
+touchUp 0 -1 720
+sleep 2282
+touchDown 0 979 212
+sleep 95
+touchUp 0 -1 720
+sleep 1801
+touchDown 0 692 214
+sleep 127
+touchUp 0 -1 720
+sleep 4000
+touchDown 0 524 370
+sleep 99
+touchUp 0 -1 720
+sleep 3392
+touchDown 0 862 358
+sleep 133
+touchMove 0 862 356
+sleep 16
+touchMove 0 862 358
+sleep 1
+touchUp 0 -1 720
+sleep 1633
+touchDown 0 521 378
+sleep 161
+touchUp 0 -1 720
+sleep 2472
+touchDown 0 379 122
+sleep 111
+touchUp 0 -1 720
+sleep 2033
+touchDown 0 674 376
+sleep 71
+touchUp 0 -1 720
+sleep 1666
+touchDown 0 979 214
+sleep 119
+touchUp 0 -1 720
+sleep 1600
+touchDown 0 690 212
+sleep 87
+touchUp 0 -1 720
+sleep 4075
+touchDown 0 524 374
+sleep 126
+touchUp 0 -1 720
+sleep 3930
+touchDown 0 871 358
+sleep 121
+touchUp 0 -1 720
+sleep 1921
+touchDown 0 524 376
+sleep 110
+touchUp 0 -1 720
+sleep 2465
+touchDown 0 390 115
+sleep 86
+touchUp 0 -1 720
+sleep 2647
+touchDown 0 683 370
+sleep 130
+touchUp 0 -1 720
+sleep 2217
+touchDown 0 977 207
+sleep 103
+touchUp 0 -1 720
+sleep 2040
+touchDown 0 704 216
+sleep 98
+touchUp 0 -1 720
+sleep 3825
+touchDown 0 523 376
+sleep 142
+touchUp 0 -1 720
+sleep 4339
+touchDown 0 871 360
+sleep 93
+touchUp 0 -1 720
+sleep 1530
+touchDown 0 515 369
+sleep 120
+touchUp 0 -1 720
+sleep 2511
+touchDown 0 388 108
+sleep 73
+touchUp 0 -1 720
+sleep 2503
+touchDown 0 512 365
+sleep 104
+touchUp 0 -1 720
+sleep 2587
+touchDown 0 970 207
+sleep 133
+touchUp 0 -1 720
+sleep 1822
+touchDown 0 699 217
+sleep 94
+touchUp 0 -1 720
+
+
+:end
