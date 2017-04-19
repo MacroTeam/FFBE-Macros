@@ -838,6 +838,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -1614,6 +1618,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -2390,6 +2398,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -3166,6 +3178,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -3942,6 +3958,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -4718,6 +4738,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2408
 touchDown 0 1262 353
 sleep 107
@@ -5862,6 +5886,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -6638,6 +6666,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -7414,6 +7446,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -8190,6 +8226,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -8966,6 +9006,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 2417
 touchDown 0 1245 663
 sleep 6
@@ -9742,6 +9786,10 @@ sleep 590
 touchDown 0 125 57
 sleep 6
 touchUp 0 125 57
+sleep 611
+touchDown 0 1245 663
+sleep 6
+touchUp 0 1245 663
 sleep 1569
 touchDown 0 490 355
 sleep 103
