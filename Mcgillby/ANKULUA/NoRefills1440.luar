@@ -1,0 +1,58 @@
+----- created by AnkuLua record script ------
+immersive = false
+setImmersiveMode(immersive)
+scriptDimension = 1440
+Settings:setScriptDimension(true, scriptDimension)
+local index = 1
+touchList = {}
+waitList = {}
+
+------ 1 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 3 -----
+touchList[index] = {"click", Location(524, 1554)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 4 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 5 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 6 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 7 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 8 -----
+touchList[index] = {"click", Location(822, 1530)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 9 -----
+touchList[index] = {"click", Location(698, 2198)}
+waitList[index] = 0.250000
+index = index + 1
+
+------ 10 -----
+touchList[index] = {"click", Location(668,1800)}
+waitList[index] = 0.250000
+index = index + 1

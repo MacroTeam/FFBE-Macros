@@ -1,0 +1,196 @@
+DEVICE: ConvertMacro 1.0
+SCREEN_SIZE: 720x1280
+
+:start
+
+sleep 1
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 345 1035
+sleep 10
+touchUp 0 345 1035
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 262 777
+sleep 10
+touchUp 0 262 777
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 411 765
+sleep 10
+touchUp 0 411 765
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 345 1035
+sleep 10
+touchUp 0 345 1035
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+touchDown 0 349 1099
+sleep 10
+touchUp 0 349 1099
+sleep 1000
+touchDown 0 334 900
+sleep 10
+touchUp 0 334 900
+sleep 1000
+
+:end

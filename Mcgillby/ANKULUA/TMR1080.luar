@@ -1,0 +1,608 @@
+----- created by AnkuLua record script ------
+immersive = false
+setImmersiveMode(immersive)
+scriptDimension = 1080
+Settings:setScriptDimension(true, scriptDimension)
+local index = 1
+touchList = {}
+waitList = {}
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(393, 1166)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(517, 1552)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(834, 1029)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(834, 1029)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(393, 1166)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(524, 1649)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 1 -----
+touchList[index] = {"click", Location(517, 1552)}
+waitList[index] = 0.050000
+index = index + 1
+
+------ 2 -----
+touchList[index] = {"click", Location(501, 1350)}
+waitList[index] = 0.050000
+index = index + 1
