@@ -1,13 +1,14 @@
-Exploration Design
+# Exploration Design
+
 1. **[Intro](#Intro)**
-1. **[1.StageSelect](#1.StageSelect)**
-2. **[2.ClearZone1](#2.ClearZone1)**
-3. **[3.Nav1](#3.Nav1)**
-4. **[4.ClearZone2](#4.ClearZone2)**
-5. **[5.Nav2](#5.Nav2)**
-6. **[6.Boss](#6.Boss)**
-7. **[7.Nav3](#7.Nav3)**
-8. **[8.Exit](#8.Exit)**
+1. **[StageSelect](#1.StageSelect)**
+2. **[ClearZone1](#2.ClearZone1)**
+3. **[Nav1](#3.Nav1)**
+4. **[ClearZone2](#4.ClearZone2)**
+5. **[Nav2](#5.Nav2)**
+6. **[Boss](#6.Boss)**
+7. **[Nav3](#7.Nav3)**
+8. **[Exit](#8.Exit)**
 9. **[Summary](#Summary)**
 
 # Intro
