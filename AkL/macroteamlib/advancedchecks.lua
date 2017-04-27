@@ -185,8 +185,6 @@ function advancedchecks.waitUntilNextBattle(timeout)
 
     if (timer:check() > timeout or result == false)
     then
-        --raise error here
-        --print('next battle timeout false')
         return false
     else
         result = advancedchecks.waitUntilRoundBegin(timeout - timer:check())
@@ -195,6 +193,16 @@ function advancedchecks.waitUntilNextBattle(timeout)
         then
             return false
         else
+            if (timer:check() + 1 < timeout)
+            then
+                wait(1)
+            elseif (timer:check() < timeout)
+            then
+                wait(timeout - timer.check())
+            else
+                return false
+            end
+
             return true
         end
     end
