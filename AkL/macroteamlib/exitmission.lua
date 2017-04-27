@@ -45,7 +45,7 @@ end
 --some of the below should be moved into advancedchecks
 --if we ever need to use it in more than one script
 function exitmission.exitMission()
-    results = advancedchecks.resultsCheck(60, 0.1, true)
+    results = advancedchecks.resultsCheck(1)
 
     while (results == false)
     do

@@ -30,7 +30,7 @@ function selectfriend.selectFriend(search, maxscroll)
 
             for i=1, maxscroll, 1
             do
-                target = advancedchecks.findpulse(search, 2)
+                target = exists(search, 2)
 
                 if (target)
                 then

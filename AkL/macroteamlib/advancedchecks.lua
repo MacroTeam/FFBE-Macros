@@ -21,7 +21,7 @@ local menuGrayedTestRGB = { r = 100, g = 100, b = 100 }
 local menupng = Pattern('assets/' .. rezString .. '/menu.png'):similar(0.95)
 local repeatpng = Pattern('assets/' .. rezString .. '/repeat.png'):similar(0.95)
 local resetpng = Pattern('assets/' .. rezString .. '/reset.png'):similar(0.95)
-local resultspng = Pattern('assets/' .. rezString .. '/results-es.png'):similar(0.6)
+local resultspng = Pattern('assets/' .. rezString .. '/results.png'):similar(0.6)
 
 local advancedchecks = {}
 
@@ -220,7 +220,6 @@ function advancedchecks.findpulse(search, timeout, checkstep)
     timer = Timer()
 
     result = exists(search, 0)
-    --pulsecheck = exists(search, 0)
 
     if (result ~= nil)
     then
@@ -240,44 +239,21 @@ function advancedchecks.findpulse(search, timeout, checkstep)
     end
 end
 
-function advancedchecks.resultsCheck(timeout, checkstep, autofinish)
+function advancedchecks.resultsCheck(timeout)
     if (timeout == nil)
     then
-        timeout = 5
-    end
-
-    if (checkstep == nil)
-    then
-        checkstep = 0.1
+        timeout = 1
     end
 
     timer = Timer()
 
-    result = advancedchecks.findpulse(resultspng, 0, checkstep)
+    result = exists(resultspng, timeout)
 
-    while (result ~= true)
-    do
-        if (timer:check() <= timeout)
-        then
-            wait(checkstep)
-            result = advancedchecks.findpulse(resultspng, 0)
-        else
-            break
-        end
-    end
-
-    if (result ~= false)
+    if (result ~= nil)
     then
         return true
     else
-        if (autofinish == true)
-        then
-            clicks.clickAuto()
-            return advancedchecks.resultsCheck()
-        else
-            --raise overall crash handling error here in future
-            return false
-        end
+        return false
     end
 end
 

@@ -71,7 +71,7 @@ end
 
 function clicks.clickOrigin(idx)
     origin = akvars.getOrigin(idx)
-    click(origin)
+    continueClick(origin:getX(), origin:getY(), 0, 0, 1)
 end
 
 function clicks.clickUnit(idx)
@@ -98,48 +98,18 @@ function clicks.clickTopFriend()
     click(topFriendLoc)
 end
 
-function clicks.attackAll()
-    pt1 = click(akvars.getOrigin(1))
-    pt2 = click(akvars.getOrigin(2))
-    pt3 = click(akvars.getOrigin(3))
-    pt4 = click(akvars.getOrigin(4))
-    pt5 = click(akvars.getOrigin(5))
-    pt6 = click(akvars.getOrigin(6))
+function clicks.attack(originarray)
+    for i, v in ipairs(originarray)
+    do
+        clicks.clickUnit(v)
 
-    actionList = { {action = "touchDown", target = p1},
-                   {action = "touchUp", target = p1},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p2},
-                   {action = "touchUp", target = p2},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p3},
-                   {action = "touchUp", target = p3},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p4},
-                   {action = "touchUp", target = p4},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p5},
-                   {action = "touchUp", target = p5},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p6},
-                   {action = "touchUp", target = p6} }
-
-    manualTouch(actionList)
+    end
 
     return true
 end
 
-function clicks.attack1and3()
-    pt1 = click(akvars.getOrigin(1))
-    pt3 = click(akvars.getOrigin(3))
-
-    actionList = { {action = "touchDown", target = p1},
-                   {action = "touchUp", target = p1},
-                   {action = "wait", target = 0.01}, 
-                   {action = "touchDown", target = p3},
-                   {action = "touchUp", target = p3} }
-
-    manualTouch(actionList)
+function clicks.attackAll()
+    clicks.attack({1, 2, 3, 4, 5, 6})
 
     return true
 end

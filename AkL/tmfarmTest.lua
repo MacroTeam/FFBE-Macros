@@ -25,10 +25,10 @@ local function tmfarm(iter)
     while (counter < limit)
     do
         startmission.startQuest(3)
-        clicks.attack1and3()
+        clicks.attack({1, 3})
         advancedchecks.waitUntilNextBattle(15)
-        clicks.attack1and3()
-        exitmission.exitMission()        
+        clicks.attack({1, 3})
+        exitmission.exitMission()
 
         if (iter ~= nil)
         then

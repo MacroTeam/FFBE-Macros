@@ -102,14 +102,14 @@ local function runmission(iter)
         round1()
         advancedchecks.waitUntilNextBattle(15)
 
-        boss = exists(bossimage, 0)
+        boss = exists(bossimage, 1)
 
         while (boss == nil)
         do
-            if (exists(nelapa, 0.5) == true)
+            if (exists(nelapa, 1) == true)
             then
                 specialround()
-            elseif (exists(goldenbomb, 0.5) == true)
+            elseif (exists(goldenbomb, 1) == true)
             then
                 specialround()
             else
@@ -118,7 +118,7 @@ local function runmission(iter)
 
             advancedchecks.waitUntilNextBattle(15)
             
-            boss = exists(bossimage, 0.5)
+            boss = exists(bossimage, 1)
         end
 
         bossround()
@@ -131,4 +131,4 @@ local function runmission(iter)
     end
 end
 
-runmission(1)
+runmission(3)

@@ -51,7 +51,7 @@ function akvars.getOrigin(idx)
     elseif (idx == 5) then
         return origin5
     elseif (idx == 6) then
-       return origin6
+        return origin6
     end
 end
 
