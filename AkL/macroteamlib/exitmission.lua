@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the
@@ -45,7 +45,7 @@ end
 --some of the below should be moved into advancedchecks
 --if we ever need to use it in more than one script
 function exitmission.exitMission()
-    results = advancedchecks.resultsCheck(60, true)
+    results = advancedchecks.resultsCheck(60, 0.1, true)
 
     while (results == false)
     do
@@ -55,7 +55,7 @@ function exitmission.exitMission()
     while (results == true)
     do
         clicks.clickNext()
-        wait(1)
+        wait(0.25)
 
         dailycheck = basicchecks.dailyCheck()
 
@@ -67,7 +67,7 @@ function exitmission.exitMission()
                 dailycheck = basicchecks.dailyCheck()
             until (dailycheck ~= true)
     
-            wait(1)
+            wait(0.25)
         end
 
         friendcheck = basicchecks.friendRequestCheck()
@@ -76,7 +76,7 @@ function exitmission.exitMission()
         then
             repeat
                 click(friendDontRequestLoc)
-                wait(1)
+                wait(0.25)
                 friendcheck = basicchecks.friendRequestCheck()
             until (friendcheck ~= true)
         end

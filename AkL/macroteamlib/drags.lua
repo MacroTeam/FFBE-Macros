@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the

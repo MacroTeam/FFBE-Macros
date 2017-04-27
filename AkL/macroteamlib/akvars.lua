@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 local devRez = Location(720, 1280)
 

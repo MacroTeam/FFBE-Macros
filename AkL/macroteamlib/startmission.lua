@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the
@@ -46,18 +46,37 @@ function startmission.startMission(idx, friendsearch)
         selectfriend.selectFriend(friendsearch)
     
         clicks.clickNext()
-        
-        advancedchecks.waitUntilRoundReady(15)
         return true
     end
     return false
 end
 
-function startmission.startMissionBonus(idx)
+function startmission.startQuest(idx, friendsearch)
+    if (startmission.startMission(idx, friendsearch) == true)
+    then
+        advancedchecks.waitUntilRoundBegin(15)
+        return true
+    end
+end
+
+function startmission.startQuestBonus(idx)
     if (idx == nil) then
         return false
     else
-        return startmission.startMission(idx, bonuspng)
+        return startmission.startQuest(idx, bonuspng)
+    end
+end
+
+function startmission.startExploration(friendsearch, idx)
+    if (idx == nil)
+    then
+        idx = 1
+    end
+
+    if (startmission.startMission(idx, friendsearch) == true)
+    then
+        advancedchecks.waitUntilExplorationBegin(15)
+        return true
     end
 end
 

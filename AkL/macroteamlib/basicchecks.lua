@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the
@@ -11,6 +11,10 @@ local friendrequestpng = Pattern('assets/' .. rezString .. '/friendrequest.png')
 local lapispng = Pattern('assets/' .. rezString .. '/lapis.png'):similar(0.975)
 
 local basicchecks = {}
+
+function basicchecks.rgbcheck(rgb1, rgb2)
+    return rgb1.r == rgb2.r and rgb1.g == rgb2.g and rgb1.b == rgb2.b
+end
 
 function basicchecks.dailyCheck()
     dqcheck = exists(dqcompletedpng, 0)

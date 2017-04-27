@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the
@@ -99,12 +99,49 @@ function clicks.clickTopFriend()
 end
 
 function clicks.attackAll()
-    click(akvars.getOrigin(1))
-    click(akvars.getOrigin(2))
-    click(akvars.getOrigin(3))
-    click(akvars.getOrigin(4))
-    click(akvars.getOrigin(5))
-    click(akvars.getOrigin(6))
+    pt1 = click(akvars.getOrigin(1))
+    pt2 = click(akvars.getOrigin(2))
+    pt3 = click(akvars.getOrigin(3))
+    pt4 = click(akvars.getOrigin(4))
+    pt5 = click(akvars.getOrigin(5))
+    pt6 = click(akvars.getOrigin(6))
+
+    actionList = { {action = "touchDown", target = p1},
+                   {action = "touchUp", target = p1},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p2},
+                   {action = "touchUp", target = p2},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p3},
+                   {action = "touchUp", target = p3},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p4},
+                   {action = "touchUp", target = p4},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p5},
+                   {action = "touchUp", target = p5},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p6},
+                   {action = "touchUp", target = p6} }
+
+    manualTouch(actionList)
+
+    return true
+end
+
+function clicks.attack1and3()
+    pt1 = click(akvars.getOrigin(1))
+    pt3 = click(akvars.getOrigin(3))
+
+    actionList = { {action = "touchDown", target = p1},
+                   {action = "touchUp", target = p1},
+                   {action = "wait", target = 0.01}, 
+                   {action = "touchDown", target = p3},
+                   {action = "touchUp", target = p3} }
+
+    manualTouch(actionList)
+
+    return true
 end
 
 return clicks

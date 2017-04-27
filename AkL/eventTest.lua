@@ -1,4 +1,4 @@
-package.path = package.path .. ';/sdcard/AnkuLua/macroteamlib/?.lua'
+package.path = package.path .. ';' .. scriptPath() .. '/macroteamlib/?.lua'
 
 --development resolution
 --eventually we'll want this to become a global variable, overwritten by the
@@ -98,27 +98,27 @@ local function runmission(iter)
 
     while (counter < limit)
     do
-        startmission.startMissionBonus(1)
+        startmission.startQuestBonus(1)
         round1()
-        advancedchecks.waitUntilRoundReady(15)
+        advancedchecks.waitUntilNextBattle(15)
 
         boss = exists(bossimage, 0)
 
         while (boss == nil)
         do
-            if (exists(nelapa))
+            if (exists(nelapa, 0.5) == true)
             then
                 specialround()
-            elseif exists(goldenbomb)
+            elseif (exists(goldenbomb, 0.5) == true)
             then
                 specialround()
             else
                 standardround()
             end
 
-            advancedchecks.waitUntilRoundReady(15)
+            advancedchecks.waitUntilNextBattle(15)
             
-            boss = exists(bossimage, 0)
+            boss = exists(bossimage, 0.5)
         end
 
         bossround()
