@@ -23,23 +23,23 @@ function selectmission.selectMission(idx)
     then
         if (idx == 1)
         then
-            click(missionslot1)
+            clicks.click(missionslot1)
         elseif (idx == 2)
         then
-            click(missionslot2)
+            clicks.click(missionslot2)
         elseif (idx == 3)
         then
-            click(missionslot3)
+            clicks.click(missionslot3)
         elseif (idx == 4)
         then
-            click(missionslot4)
+            clicks.click(missionslot4)
         elseif (idx == 5)
         then
-            click(missionslot5)
+            clicks.click(missionslot5)
         end
     else
         drags.missiondrag(idx - 5)
-        click(missionslot5)
+        clicks.click(missionslot5)
     end
 
     wait(1)

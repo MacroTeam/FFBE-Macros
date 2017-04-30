@@ -45,11 +45,11 @@ end
 --some of the below should be moved into advancedchecks
 --if we ever need to use it in more than one script
 function exitmission.exitMission()
-    results = advancedchecks.resultsCheck(1)
+    results = basicchecks.resultsCheck(1)
 
     while (results == false)
     do
-        results = advancedchecks.resultsCheck()
+        results = basicchecks.resultsCheck()
     end
 
     while (results == true)
@@ -62,7 +62,7 @@ function exitmission.exitMission()
         if (dailycheck == true)
         then
             repeat
-                click(dailyClickLoc)
+                clicks.click(dailyClickLoc)
                 wait(1)
                 dailycheck = basicchecks.dailyCheck()
             until (dailycheck ~= true)
@@ -75,13 +75,13 @@ function exitmission.exitMission()
         if (friendcheck == true)
         then
             repeat
-                click(friendDontRequestLoc)
+                clicks.click(friendDontRequestLoc)
                 wait(0.25)
                 friendcheck = basicchecks.friendRequestCheck()
             until (friendcheck ~= true)
         end
 
-        results = advancedchecks.resultsCheck()
+        results = basicchecks.resultsCheck()
     end
 
     --insert check here to see if we're back at a mission select screen

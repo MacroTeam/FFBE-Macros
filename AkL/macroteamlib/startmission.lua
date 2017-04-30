@@ -76,7 +76,7 @@ function startmission.startExploration(friendsearch, idx)
 
     if (startmission.startMission(idx, friendsearch) == true)
     then
-        advancedchecks.waitUntilExplorationBegin(15)
+        advancedchecks.waitUntilExplorationOverworld(15)
         return true
     end
 end

@@ -8,6 +8,7 @@ local rezString = devRez:getX() .. 'x' .. devRez:getY()
 
 basicchecks = require("basicchecks")
 clicks = require("clicks")
+resconv = require("resconv")
 
 local repeatTestLoc = resconv.convertCoordinates(Location(253, 1234), devRez)
 local resetTestLoc = resconv.convertCoordinates(Location(389, 1234), devRez)
@@ -16,12 +17,16 @@ local menuTestLoc = resconv.convertCoordinates(Location(595, 1234), devRez)
 local menuTestRGB = { r = 255, g = 255, b = 255 }
 local menuGrayedTestRGB = { r = 100, g = 100, b = 100 }
 
---local menuTestRGB = { r = 166, g = 239, b = 255 }
-
 local menupng = Pattern('assets/' .. rezString .. '/menu.png'):similar(0.95)
-local repeatpng = Pattern('assets/' .. rezString .. '/repeat.png'):similar(0.95)
-local resetpng = Pattern('assets/' .. rezString .. '/reset.png'):similar(0.95)
-local resultspng = Pattern('assets/' .. rezString .. '/results.png'):similar(0.6)
+--local repeatpng = Pattern('assets/' .. rezString .. '/repeat.png'):similar(0.95)
+--local resetpng = Pattern('assets/' .. rezString .. '/reset.png'):similar(0.95)
+
+local menuRegLoc = resconv.convertCoordinates(Location(540, 1180), devRez)
+local menuRegHW = resconv.convertCoordinates(Location(180, 100), devRez)
+local menuRegion = Region(menuRegLoc:getX(), menuRegLoc:getY(), menuRegHW:getX(), menuRegHW:getY())
+
+--local repeatRegion = 
+--local resetRegion = 
 
 local advancedchecks = {}
 
@@ -38,7 +43,32 @@ function advancedchecks.colorTestPt(loc, inRGB)
     return basicchecks.rgbcheck(inRGB, locRGB)
 end
 
-function advancedchecks.waitUntilBattleEnd(timeout, checkstep)
+function advancedchecks.waitUntilBattleBegin(timeout, checkstep)
+    if (timeout == nil)
+    then
+        timeout = 15
+    end
+
+    if (checkstep == nil)
+    then
+        checkstep = 0.1
+    end
+
+    timer = Timer()
+    
+    repeat
+        result = menuRegion:exists(menupng, 0)
+        
+        if (timer:check() >= timeout)
+        then
+            return false
+        end
+    until (result ~= nil)
+
+    return true
+end
+
+function advancedchecks.waitUntilBattleEnd(timeout, checkstep, exploration)
     --we need to make sure that the menu grayed exists
     --or we should raise an error, since that means we
     --haven't ended the previous round. we also don't
@@ -83,14 +113,21 @@ function advancedchecks.waitUntilBattleEnd(timeout, checkstep)
         do
             if (timer:check() <= timeout)
             then
-                if (exists(menupng, 0))
+                if (basicchecks.resultsCheck(nil, exploration))
+                then
+                    return true
+                elseif (menuRegion:exists(menupng, 0))
                 then
                     wait(checkstep)
 
                     result = advancedchecks.colorTestPt(menuTestLoc, menuTestRGB)
                 else
                     --menu has disappeared, battle is probably over
-                    return true
+                    --if (basicchecks.resultsCheck(1) == true)
+                    --then
+                        --raise error here
+                        return true
+                    --end
                 end
             else
                 return false
@@ -115,6 +152,8 @@ function advancedchecks.waitUntilRoundBegin(timeout, checkstep)
     end
 
     timer = Timer()
+
+    advancedchecks.waitUntilBattleBegin(timeout)
 
     result = advancedchecks.colorTestPt(menuTestLoc, menuTestRGB)
 
@@ -161,6 +200,12 @@ function advancedchecks.waitUntilRoundBegin(timeout, checkstep)
             else
                 return false
             end
+
+            --if (basicchecks.resultsCheck(0) == true)
+            --then
+                --raise error here
+            --    return true
+            --end
         end
     end
 
@@ -178,10 +223,10 @@ function advancedchecks.waitUntilRoundBegin(timeout, checkstep)
     return true
 end
 
-function advancedchecks.waitUntilNextBattle(timeout)
+function advancedchecks.waitUntilNextBattle(timeout, exploration)
     timer = Timer()
 
-    result = advancedchecks.waitUntilBattleEnd(timeout)
+    result = advancedchecks.waitUntilBattleEnd(timeout, nil, exploration)
 
     if (timer:check() > timeout or result == false)
     then
@@ -208,16 +253,10 @@ function advancedchecks.waitUntilNextBattle(timeout)
     end
 end
 
-function advancedchecks.waitUntilExplorationBegin(timeout)
-    --stub
-    wait(timeout)
-    return true
-end
-
-function advancedchecks.findpulse(search, timeout, checkstep)
+function advancedchecks.waitUntilExplorationMap(timeout, checkstep)
     if (timeout == nil)
     then
-        timeout = 2
+        timeout = 15
     end
 
     if (checkstep == nil)
@@ -227,42 +266,45 @@ function advancedchecks.findpulse(search, timeout, checkstep)
 
     timer = Timer()
 
-    result = exists(search, 0)
-
-    if (result ~= nil)
-    then
-        return result
-    else
-        while (timer:check() <= timeout)
-        do
-            wait(checkstep)
-
-            result = exists(search, 0)
-          
-            if (result ~= nil)
-            then
-                return result
-            end
+    repeat
+        result = basicchecks.explorationMapCheck()
+        
+        if(result == true)
+        then
+            return true
         end
-    end
+
+        wait(checkstep)
+    until(timer:check() > timeout)
+
+    return false
 end
 
-function advancedchecks.resultsCheck(timeout)
+function advancedchecks.waitUntilExplorationOverworld(timeout, checkstep)
     if (timeout == nil)
     then
-        timeout = 1
+        timeout = 15
+    end
+
+    if (checkstep == nil)
+    then
+        checkstep = 0.1
     end
 
     timer = Timer()
 
-    result = exists(resultspng, timeout)
+    repeat
+        result = basicchecks.toggleMapCheck()
+        
+        if(result == true)
+        then
+            return true
+        end
 
-    if (result ~= nil)
-    then
-        return true
-    else
-        return false
-    end
+        wait(checkstep)
+    until(timer:check() > timeout)
+
+    return false
 end
 
 return advancedchecks

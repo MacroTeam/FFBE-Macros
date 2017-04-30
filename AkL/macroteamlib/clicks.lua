@@ -69,9 +69,13 @@ function clicks.getTopFriend()
     return topFriendLoc
 end
 
+function clicks.click(loc)
+    continueClick(loc:getX(), loc:getY(), 0, 0, 1)
+end
+
 function clicks.clickOrigin(idx)
     origin = akvars.getOrigin(idx)
-    continueClick(origin:getX(), origin:getY(), 0, 0, 1)
+    clicks.click(origin)
 end
 
 function clicks.clickUnit(idx)
@@ -83,26 +87,25 @@ function clicks.clickAbility(idx)
 end
 
 function clicks.clickAuto()
-    click(autoButtonLoc)
+    clicks.click(autoButtonLoc)
 end
 
 function clicks.clickRepeat()
-    click(repeatButtonLoc)
+    clicks.click(repeatButtonLoc)
 end
 
 function clicks.clickNext()
-    click(nextButtonLoc)
+    clicks.click(nextButtonLoc)
 end
 
 function clicks.clickTopFriend()
-    click(topFriendLoc)
+    clicks.click(topFriendLoc)
 end
 
 function clicks.attack(originarray)
     for i, v in ipairs(originarray)
     do
         clicks.clickUnit(v)
-
     end
 
     return true

@@ -16,25 +16,29 @@ resconv = require("resconv")
 
 local bonuspng = Pattern('assets/' .. rezString .. '/bonus-onus.png'):similar(0.8)
 
+local friendRegLoc = resconv.convertCoordinates(Location(0, 330), devRez)
+local friendRegHW = resconv.convertCoordinates(Location(160, 950), devRez)
+local friendRegion = Region(friendRegLoc:getX(), friendRegLoc:getY(), friendRegHW:getX(), friendRegHW:getY())
+
 local selectfriend = {}
 
-function selectfriend.selectFriend(search, maxscroll)
+function selectfriend.selectFriend(searchimage, maxscroll)
     if (maxscroll == nil)
     then
         maxscroll = 6
     end
 
-    if (search ~= nil)
+    if (searchimage ~= nil)
         then
             target = false
 
             for i=1, maxscroll, 1
             do
-                target = exists(search, 2)
+                target = friendRegion:exists(searchimage, 2)
 
                 if (target)
                 then
-                    click(target)
+                    clicks.click(target)
                     break
                 else
                     drags.friendsdrag(1)

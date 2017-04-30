@@ -14,6 +14,7 @@ local goldenbomb = Pattern('assets/' .. rezString .. '/goldenbomb.png'):similar(
 local nelapa = Pattern('assets/' .. rezString .. '/nelapa.png'):similar(0.975)
 
 advancedchecks = require("advancedchecks")
+checkenemyname = require("checkenemyname")
 clicks = require("clicks")
 drags = require("drags")
 startmission = require("startmission")
@@ -30,7 +31,7 @@ local function round1()
     --olive
     drags.unitdrag(4, 'ability')
     wait(1)
-    drags.skilldrag()
+    drags.skilldrag(1)
     clicks.clickAbility(4)
     wait(1)
 
@@ -50,7 +51,7 @@ local function standardround()
         --olive
         drags.unitdrag(4, 'ability')
         wait(1)
-        drags.skilldrag()
+        drags.skilldrag(1)
         clicks.clickAbility(6)
         wait(1)
         clicks.clickUnit(4)
@@ -78,7 +79,7 @@ local function bossround()
     --olive
     drags.unitdrag(4, 'ability')
     wait(1)
-    drags.skilldrag()
+    drags.skilldrag(1)
     clicks.clickAbility(1)
     wait(1)
     clicks.clickUnit(4)
@@ -102,14 +103,14 @@ local function runmission(iter)
         round1()
         advancedchecks.waitUntilNextBattle(15)
 
-        boss = exists(bossimage, 1)
+        boss = checkenemyname.checkEnemyName(bossimage, 1)
 
-        while (boss == nil)
+        while (boss == false)
         do
-            if (exists(nelapa, 1) == true)
+            if (checkenemyname.checkEnemyName(nelapa, 1))
             then
                 specialround()
-            elseif (exists(goldenbomb, 1) == true)
+            elseif (checkenemyname.checkEnemyName(goldenbomb, 1))
             then
                 specialround()
             else
@@ -118,7 +119,7 @@ local function runmission(iter)
 
             advancedchecks.waitUntilNextBattle(15)
             
-            boss = exists(bossimage, 1)
+            boss = checkenemyname.checkEnemyName(bossimage, 1)
         end
 
         bossround()

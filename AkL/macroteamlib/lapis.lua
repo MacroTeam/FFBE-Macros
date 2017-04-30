@@ -74,13 +74,13 @@ end
 function lapis.handleLapisPopup(spend, item)
     if (spend == true)
     then
-        click(useLapisButtonLoc)
+        clicks.click(useLapisButtonLoc)
         wait(1)
-        click(lapisYesButtonLoc)
+        clicks.click(lapisYesButtonLoc)
         wait(3)
         return true
     else
-        click(backLapisButtonLoc)
+        clicks.click(backLapisButtonLoc)
         wait(1)
         return true
     end
