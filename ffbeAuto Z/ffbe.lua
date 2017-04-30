@@ -4,7 +4,7 @@
 -- Nox
 -- http://ankulua.boards.net/thread/167/brave-exvius-ffbeauto-farming-explorations
 
-ver = "ffbeAuto Z12"
+ver = "ffbeAuto Z13"
 ALver = "0"															-- AnkuLua version string
 ALpro = true														-- is this AnkuLua a Pro and not trial?
 
@@ -159,7 +159,7 @@ sb_skills = {}
 sb_skills["None"] = false
 sb_skills["Katana"] = Pattern("SB_Sword.png")
 sb_skills["Sword"] = Pattern("SB_Break.png")
-sb_skills["Blast"] = Pattern("SB_Blast.png")
+sb_skills["Blast"] = Pattern("SB_Blast.png"):similar(0.7)
 sb_skills["Aero"] = Pattern("SB_Aero.png")
 sb_skills["Shot"] = Pattern("SB_Shot.png")
 sb_skills["Cure"] = Pattern("SB_Curaja.png")
@@ -181,7 +181,7 @@ sb_skills["Provoke"] = Pattern("SB_Provoke.png")
 sb_skills["Dance"] = Pattern("SB_Dance.png")
 sb_skills["Sing"] = Pattern("SB_Sing.png")
 sb_skills["Elements"] = Pattern("SB_Elements.png")
-sb_skills["Status"] = Pattern("SB_Status.png")
+sb_skills["Status"] = Pattern("SB_Status.png"):similar(0.7)
 sb_skills["Meteor"] = Pattern("SB_Meteor.png")
 sb_skills["Cover (Noctis)"] = Pattern("SB_Cover.png")
 
@@ -223,7 +223,7 @@ farm["water_shrine_exploration"] = Pattern("water_shrine_exploration.png")
 farm["wind_shrine_exploration"] = Pattern("wind_shrine_exploration.png")
 farm["fire_shrine_exploration"] = Pattern("fire_shrine_exploration.png")
 farm["invincible_interior_exploration"] = Pattern("invincible_interior_exploration.png")
-farm["enchanted_maze"] = exploration
+farm["enchanted_maze_BGN"] = Pattern("enchanted_maze_BGN.png")
 --farm["orbonne_monastery_vault_exploration"] = Pattern("vault_explore.png")
 
 -- Exploration paths.
@@ -790,6 +790,7 @@ function exploreBattle()
 		usePreviousSnap(false)
 		if(existsL(menu,0)) then break end
 		usePreviousSnap(true)
+		if(not existsL(menuinbattle,0)) then break end
 		if(existsL(battle_won,0) or existsL(battle_won2,0) or existsL(continue_ask,0)) then break end
 		if(existsL(revive,0)) then return end
 		usePreviousSnap(false)
@@ -941,46 +942,67 @@ function freeFarm()
 end
 
 function enchantedMaze()
+	local lvbegin = Pattern("enchanted_maze_begin.png")
 	local lv1 = Pattern("enchanted_maze_lv1.png")
 	local lv2 = Pattern("enchanted_maze_lv2.png")
 	local lv3 = Pattern("enchanted_maze_lv3.png")
 	local lv4 = Pattern("enchanted_maze_lv4.png")
 	local lv5 = Pattern("enchanted_maze_lv5.png")
 	local lvexit = Pattern("enchanted_maze_exit.png")
+
+	battle_counter = 0
+	move_counter = 0
+	bosses_encountered = 0
+	enable_bosscheck_counter = 100
 	
-	go("up",4000)
-	if(existsL(lv1)) then
-		go("up",4000)
+	if (debug_mode) then runlog("Enchanted maze start",true) end
+
+	while(true) do
+		if(existsL(lvbegin)) then
+			if (debug_mode) then runlog("Enchanted maze begin",true) end
+			go("up",3500+lagx*1000)
+		end
+		if(existsL(lv1)) then
+			if (debug_mode) then runlog("Enchanted maze Lv.1",true) end
+			go("up",3500+lagx*1000)
+		end
+		if(existsL(lv2)) then 
+			if (debug_mode) then runlog("Enchanted maze Lv.2",true) end
+			go("up",3500+lagx*1000) 
+		end
+		if(existsL(lv3)) then 
+			if (debug_mode) then runlog("Enchanted maze Lv.3",true) end
+--			go("up",1)
+--			go("right",1)
+			go("up",3500+lagx*500)
+			go("left",3)
+			go("up",1000+lagx*500)
+		end
+		if(existsL(lv4)) then
+			if (debug_mode) then runlog("Enchanted maze Lv.4",true) end
+--			go("up",1)
+--			go("left",1)
+			go("up",3500+lagx*500)
+			go("right",3)
+			go("up",1000+lagx*500)
+		end
+		if(existsL(lv5)) then
+			if (debug_mode) then runlog("Enchanted maze Lv.5",true) end
+			go("up",1000+lagx*500)
+			go("left",3000+lagx*1000)
+			go("up",3000+lagx*1000)
+		end
+		if(existsL(lvexit)) then
+			if (debug_mode) then runlog("Enchanted maze exit",true) end
+			go("up",4)
+			break
+		end
+		if(existsL(results_big)) then 
+			break
+		end
 	end
-	if(existsL(lv2)) then 
-		go("up",4000) 
-	end
-	if(existsL(lv3)) then 
-		findMove()
-		go("up",1)
-		findMove()
-		go("right",1)
-		go("up",2000)
-		go("left",3)
-		go("up",4000)
-	end
-	if(existsL(lv4)) then
-		findMove()
-		go("up",1)
-		findMove()
-		go("left",1)
-		go("up",2000)
-		go("right",3)
-		go("up",1000)
-	end
-	if(existsL(lv5)) then
-		go("up",1000)
-		go("left",2000)
-		go("up",2000)
-	end
-	if(existsL(lvexit)) then
-		go("up",2000)
-	end
+	
+	if (debug_mode) then runlog("Enchanted maze done",true) end
 end
 
 -- earth shrine entrance SPEED mode. Ignores as much as possible to make it speedy.
@@ -1352,7 +1374,7 @@ function fFarm(location)
 	end
 	
 	if(string.match(location,"_exploration") or string.match(location,"custom_")) then explore2(location)
-	elseif(location=="enchanted_maze") then enchantedMaze()
+	elseif(location=="enchanted_maze_BGN") then enchantedMaze()
 	elseif(use_smart_battle==true) then smartBattle()
 	elseif(use_esper_battle==true) then battleEsper()
 	else
@@ -1654,6 +1676,7 @@ function smartBattle_choose(skilluse, skillmp)
 					if (not skillSuccess) then
 						if (debug_mode) then runlog("Found not successful.",true) end
 						dragDrop(Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) ) 
+						wait(0.1+lagx*0.15)
 						usePreviousSnap(false)
 						skillTries = skillTries + 1
 					end
@@ -1661,6 +1684,7 @@ function smartBattle_choose(skilluse, skillmp)
 				else
 					if (debug_mode) then runlog("Not found.",true) end
 					dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+sb_reg:getH()-33 ), Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+25))
+					wait(0.1+lagx*0.15)
 					usePreviousSnap(false)
 					skillTries = skillTries + 1
 				end
@@ -1754,6 +1778,7 @@ function smartBattle_companion(skillmp)
 				else
 					if (debug_mode) then runlog("Found not successful.",true) end
 					dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) ) 
+					wait(0.1+lagx*0.15)
 					usePreviousSnap(false)
 					skillTries = skillTries + 1
 				end				
@@ -1761,6 +1786,7 @@ function smartBattle_companion(skillmp)
 			else
 				if (debug_mode) then runlog("Not found.",true) end
 				dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+sb_reg:getH()-33 ), Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+25))
+				wait(0.1+lagx*0.15)
 				usePreviousSnap(false)
 				skillTries = skillTries + 1
 			end
