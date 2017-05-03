@@ -6,6 +6,7 @@ package.path = package.path .. ';' .. scriptPath() .. '/?.lua'
 local devRez = Location(720, 1280)
 local rezString = devRez:getX() .. 'x' .. devRez:getY()
 
+local advancedchecks = require("advancedchecks")
 local basicchecks = require("basicchecks")
 local clicks = require("clicks")
 
@@ -20,8 +21,8 @@ local connectioniconRegLoc = resconv.convertCoordinates(Location(0, 0), devRez)
 local connectioniconRegHW = resconv.convertCoordinates(Location(70, 42), devRez)
 local connectioniconRegion = Region(connectioniconRegLoc:getX(), connectioniconRegLoc:getY(), connectioniconRegHW:getX(), connectioniconRegHW:getY())
 
-local levelnamecheckLoc = resconv.convertCoordinates(Location(0, 140), devRez)
-local levelnamecheckHW = resconv.convertCoordinates(Location(70, 42), devRez)
+local levelnamecheckLoc = resconv.convertCoordinates(Location(0, 120), devRez)
+local levelnamecheckHW = resconv.convertCoordinates(Location(720, 80), devRez)
 local levelnamecheckRegion = Region(levelnamecheckLoc:getX(), levelnamecheckLoc:getY(), levelnamecheckHW:getX(), levelnamecheckHW:getY())
 
 local errorchecks = {}
@@ -55,22 +56,25 @@ function errorchecks.levelnamecheck(levelnamepng)
 
     if (basicchecks.menuCheck())
     then
-        clicks.clickMenuButton()
-
-        correctname = false
-
-        wait(0.3)
-
-        if (levelnamecheckRegion:exists(levelnamepng, 0) ~= nil)
+        if (advancedchecks.menuActiveCheck())
         then
-            correctname = true
+            clicks.clickMenuButton()
+
+            correctname = false
+
+            wait(0.3)
+
+            if (levelnamecheckRegion:exists(levelnamepng, 0) ~= nil)
+            then
+                correctname = true
+            end
+
+            clicks.clickMenuBackButton()
+
+            wait(0.3)
+
+            return correctname
         end
-
-        clicks.clickMenuBackButton()
-
-        wait(0.3)
-
-        return correctname
     end
 
     --if the menu is not present, we need this third choice here

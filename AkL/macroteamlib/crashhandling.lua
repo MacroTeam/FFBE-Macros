@@ -8,6 +8,7 @@ local devRez = Location(720, 1280)
 --akvars = require("akvars")
 --resconv = require("resconv")
 local basichecks = require("basicchecks")
+local clicks = require("clicks")
 local errorchecks = require("errorchecks")
 
 local crashhandling = {}
@@ -15,7 +16,7 @@ local crashhandling = {}
 function crashhandling.startApp(version)
     if (version == nil)
     then
-        version = 'google'
+        version = 'amazon'
     end
 
     --needs to handle any other app versions as well
@@ -42,7 +43,7 @@ function crashhandling.checkAppCrash()
 end
 
 function crashhandling.exitLevel()
-    clicks.clickGiveUp()
+    clicks.clickMenuGiveUp()
     wait(0.3)
     clicks.clickYesButton()
 

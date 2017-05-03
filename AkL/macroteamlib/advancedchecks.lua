@@ -38,7 +38,7 @@ function advancedchecks.colorTestPt(loc, inRGB)
     return basicchecks.rgbcheck(inRGB, locRGB)
 end
 
-function advancedchecks.waitUntilBattleBegin(timeout, checkstep)
+function advancedchecks.menuActiveCheck(timeout, checkstep)
     if (timeout == nil)
     then
         timeout = 15
@@ -64,7 +64,39 @@ function advancedchecks.waitUntilBattleBegin(timeout, checkstep)
         end
     end
 
+    result = advancedchecks.colorTestPt(menuTestLoc, menuTestRGB)
+
+    while (result ~= true)
+    do
+        if (timer:check() <= timeout)
+        then
+            wait(checkstep)
+            
+            result = advancedchecks.colorTestPt(menuTestLoc, menuTestRGB)
+        else
+            return false
+        end
+    end
+
     return true
+end
+
+    
+function advancedchecks.waitUntilBattleBegin(timeout, checkstep)
+    if (timeout == nil)
+    then
+        timeout = 15
+    end
+
+    if (checkstep == nil)
+    then
+        checkstep = 0.1
+    end
+
+    timer = Timer()
+    result = advancedchecks.menuCheck(timeout - timer:check(), checkstep)
+
+    return result
 end
 
 function advancedchecks.waitUntilBattleEnd(timeout, checkstep, exploration)

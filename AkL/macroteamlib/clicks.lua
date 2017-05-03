@@ -138,7 +138,7 @@ function clicks.clickMenuButton()
 end
 
 function clicks.clickMenuGiveUp()
-    cicks.click(menuGiveUpLoc)
+    clicks.click(menuGiveUpLoc)
 end
 
 function clicks.clickNext()

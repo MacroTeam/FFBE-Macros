@@ -56,6 +56,7 @@ function farming(iter)
             --check to see if app has crashed
             crashhandling.checkAppCrash()
 
+
             --implement checks to see if we're on
             --the main app screen, and if so
             --we'll need to navigate back to the app
