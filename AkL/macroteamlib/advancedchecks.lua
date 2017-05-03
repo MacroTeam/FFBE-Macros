@@ -17,13 +17,8 @@ local menuTestLoc = resconv.convertCoordinates(Location(595, 1234), devRez)
 local menuTestRGB = { r = 255, g = 255, b = 255 }
 local menuGrayedTestRGB = { r = 100, g = 100, b = 100 }
 
-local menupng = Pattern('assets/' .. rezString .. '/menu.png'):similar(0.95)
 --local repeatpng = Pattern('assets/' .. rezString .. '/repeat.png'):similar(0.95)
 --local resetpng = Pattern('assets/' .. rezString .. '/reset.png'):similar(0.95)
-
-local menuRegLoc = resconv.convertCoordinates(Location(540, 1180), devRez)
-local menuRegHW = resconv.convertCoordinates(Location(180, 100), devRez)
-local menuRegion = Region(menuRegLoc:getX(), menuRegLoc:getY(), menuRegHW:getX(), menuRegHW:getY())
 
 --local repeatRegion = 
 --local resetRegion = 
@@ -55,15 +50,19 @@ function advancedchecks.waitUntilBattleBegin(timeout, checkstep)
     end
 
     timer = Timer()
-    
-    repeat
-        result = menuRegion:exists(menupng, 0)
-        
-        if (timer:check() >= timeout)
+    result = basicchecks.menuCheck()
+
+    while (result == false)
+    do
+        if (timer:check() <= timeout)
         then
+            wait(checkstep)
+            
+            result = basicchecks.menuCheck()
+        else
             return false
         end
-    until (result ~= nil)
+    end
 
     return true
 end
@@ -116,7 +115,7 @@ function advancedchecks.waitUntilBattleEnd(timeout, checkstep, exploration)
                 if (basicchecks.resultsCheck(nil, exploration))
                 then
                     return true
-                elseif (menuRegion:exists(menupng, 0))
+                elseif (basicchecks.menuCheck())
                 then
                     wait(checkstep)
 

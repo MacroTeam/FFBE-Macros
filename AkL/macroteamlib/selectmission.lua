@@ -18,7 +18,10 @@ local missionslot5 = resconv.convertCoordinates(Location(360, 1190), devRez)
 
 local selectmission = {}
 
-function selectmission.selectMission(idx)
+--select mission by positional id
+--use in the level selection and not
+--first vortex screen
+function selectmission.selectMissionNumber(idx)
     if (idx < 6)
     then
         if (idx == 1)
@@ -38,15 +41,95 @@ function selectmission.selectMission(idx)
             clicks.click(missionslot5)
         end
     else
-        drags.missiondrag(idx - 5)
+        drags.missiondrag(math.floor(idx / 5))
         clicks.click(missionslot5)
     end
 
     wait(1)
 
-    clicks.clickNext()
+    --clicks.clickNext()
 
     return true
+end
+
+--find mission by pattern
+--probably useful for vortex missions
+function selectmission.selectMissionPattern(inpattern)
+    result = exists(idx)
+
+    if (result)
+    then
+        clicks.click(result)
+    else
+        drags.missiondrag(1)
+        
+        result = exists(idx)
+
+        if (result)
+        then
+            clicks.click(result)
+        else
+            return false
+        end
+    end
+end
+
+--bridge function to allow not having to rewrite loads
+--of syntax
+function selectmission.selectMission(input)
+    if (typeof(input) == 'number')
+    then
+        return selectmission.selectMissionNumber(input)
+    elseif typeof(idx) == 'Pattern'
+        return selectmission.selectMissionPattern(input)
+    end
+end
+
+--verify we're on main screen and select world icon
+function selectmission.selectWorldIcon()
+end
+
+--verify we're on main screen and select vortex icon
+function selectmission.selectVortexIcon()
+end
+
+--handles all world map movement
+--might be best to use icons and
+--set map drag movements
+function selectmission.navigateWorldMap()
+end
+
+function selectmission.missionPathParser(entry)
+    entrytype = typeof(entry)
+
+    if (entrytype == 'number' or entrytype == 'Pattern')
+    then
+        selectmission.selectMission(entry)
+    elseif entrytype == 'string'
+    then
+        if (entry == 'world')
+        then
+            selectmission.selectWorldIcon()
+        elseif (entry == 'vortex')
+            selectmission.selectVortexIcon()
+        else
+            selectmission
+end
+
+function selectmission.navigateToMission(missionpath)
+    if (missionpath[1] == 'world')
+    then
+        selectmission.selectWorld()
+
+        missionpath.remove(a, 1)
+    elseif (missionpath[1]) == 'vortex'
+    then
+        selectmission.selectVortex()
+
+        selectmission.selectMission(missionpath[2])
+
+        selectmission.selectMission(missionpath[3])
+    end
 end
 
 return selectmission

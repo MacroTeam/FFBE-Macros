@@ -14,7 +14,9 @@ local expmappng = Pattern('assets/' .. rezString .. '/exploration-map.png'):simi
 local expresultspng = Pattern('assets/' .. rezString .. '/exploration-results.png'):similar(0.975)
 local friendrequestpng = Pattern('assets/' .. rezString .. '/friendrequest.png'):similar(0.975)
 local lapispng = Pattern('assets/' .. rezString .. '/lapis.png'):similar(0.975)
-local resultspng = Pattern('assets/' .. rezString .. '/results.png'):similar(0.6)
+local levelbackpng = Pattern('assets/' .. rezString .. '/lapis.png'):similar(0.975)
+local menupng = Pattern('assets/' .. rezString .. '/menu.png'):similar(0.95)
+local resultspng = Pattern('assets/' .. rezString .. '/results.png'):similar(0.5)
 local togglemappng = Pattern('assets/' .. rezString .. '/togglemap.png'):similar(0.975)
 
 --local dqcompletedRegion = 
@@ -34,6 +36,14 @@ local friendrequestRegion = Region(friendrequestRegLoc:getX(), friendrequestRegL
 local lapisRegLoc = resconv.convertCoordinates(Location(230, 480), devRez)
 local lapisRegHW = resconv.convertCoordinates(Location(260, 120), devRez)
 local lapisRegion = Region(lapisRegLoc:getX(), lapisRegLoc:getY(), lapisRegHW:getX(), lapisRegHW:getY())
+
+local levelBackRegLoc = resconv.convertCoordinates(Location(230, 480), devRez)
+local levelBackRegHW = resconv.convertCoordinates(Location(260, 120), devRez)
+local levelBackRegion = Region(levelBackRegLoc:getX(), levelBackRegLoc:getY(), levelBackRegHW:getX(), levelBackRegHW:getY())
+
+local menuRegLoc = resconv.convertCoordinates(Location(540, 1180), devRez)
+local menuRegHW = resconv.convertCoordinates(Location(180, 100), devRez)
+local menuRegion = Region(menuRegLoc:getX(), menuRegLoc:getY(), menuRegHW:getX(), menuRegHW:getY())
 
 local resultsRegLoc = resconv.convertCoordinates(Location(180, 60), devRez)
 local resultsRegHW = resconv.convertCoordinates(Location(360, 360), devRez)
@@ -74,6 +84,17 @@ function basicchecks.lapisCheck()
     lapischeck = lapisRegion:exists(lapispng, 0)
 
     if (lapischeck ~= nil)
+    then
+        return true
+    else
+        return false
+    end
+end
+
+function basicchecks.levelBackButtonCheck()
+    levelbackcheck = levelBackRegion:exists(levelbackpng, 0)
+
+    if (levelbackcheck ~= nil)
     then
         return true
     else
@@ -141,6 +162,20 @@ function basicchecks.resultsCheck(timeout, exploration)
     result = resultsRegion:exists(resultspng, timeout)
 
     if (result ~= nil)
+    then
+        return true
+    else
+        return false
+    end
+end
+
+function basicchecks.menuCheck(timeout)
+    if (timeout == nil)
+    then
+        timeout = 0
+    end
+
+    if (menuRegion:exists(menupng, 0) ~= nil)
     then
         return true
     else

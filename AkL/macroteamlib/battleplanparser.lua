@@ -99,7 +99,7 @@ function battleplanparser.executeBattlePlan(battleplan, norepeat)
         storedplan[v["trigger"]] = {v["finish"], v["plan"]}
     end
 
-    advancedchecks.waitUntilRoundBegin(15)
+    advancedchecks.waitUntilRoundBegin(30)
 
     while(basicchecks.resultsCheck() ~= true)
     do

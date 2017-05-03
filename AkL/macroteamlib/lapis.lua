@@ -6,6 +6,7 @@ package.path = package.path .. ';' .. scriptPath() .. '?.lua'
 local devRez = Location(720, 1280)
 local rezString = devRez:getX() .. 'x' .. devRez:getY()
 
+clicks = require("clicks")
 resconv = require("resconv")
 
 local lapis = {}
@@ -13,8 +14,6 @@ local lapis = {}
 --local useItemButton = resconv.convertCoordinates(Location(210, 660), devRez)
 local useLapisButtonLoc = resconv.convertCoordinates(Location(500, 665), devRez)
 local backLapisButtonLoc = resconv.convertCoordinates(Location(360, 790), devRez)
-local lapisYesButtonLoc = resconv.convertCoordinates(Location(510, 710), devRez)
-local lapisNoButtonLoc = resconv.convertCoordinates(Location(210, 710), devRez)
 
 --function lapis.getUseItemButton()
 --function lapis.setUseItemButton(loc)
@@ -46,29 +45,19 @@ function lapis.setBackLapisButton(loc)
 end
 
 function lapis.getLapisYesButton()
-    return lapisYesButtonLoc
+    return clicks.getYesButton()
 end
 
 function lapis.setLapisYesButton(loc)
-    if (loc == nil) then
-        return false
-    else
-        lapisYesButtonLoc = loc
-        return true
-    end
+    return clicks.setYesButton(loc)
 end
 
 function lapis.getLapisNoButton()
-    return lapisNoButtonLoc
+    return clicks.getNoButton()
 end
 
 function lapis.setLapisNoButton(loc)
-    if (loc == nil) then
-        return false
-    else
-        lapisNoButtonLoc = loc
-        return true
-    end
+    return clicks.setNoButton(loc)
 end
 
 function lapis.handleLapisPopup(spend, item)
@@ -76,7 +65,7 @@ function lapis.handleLapisPopup(spend, item)
     then
         clicks.click(useLapisButtonLoc)
         wait(1)
-        clicks.click(lapisYesButtonLoc)
+        clicks.clickYesButton()
         wait(3)
         return true
     else

@@ -41,12 +41,16 @@ function startmission.startMission(idx, friendsearch)
             end
 
             selectmission.selectMission(idx)
+
+            clicks.clickNext()
         end
 
         wait(1)
         selectfriend.selectFriend(friendsearch)
     
         clicks.clickNext()
+
+        wait(1)
         return true
     end
     return false
