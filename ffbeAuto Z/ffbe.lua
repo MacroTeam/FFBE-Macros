@@ -4,7 +4,7 @@
 -- Nox
 -- http://ankulua.boards.net/thread/167/brave-exvius-ffbeauto-farming-explorations
 
-ver = "ffbeAuto Z13"
+ver = "ffbeAuto Z14"
 ALver = "0"															-- AnkuLua version string
 ALpro = true														-- is this AnkuLua a Pro and not trial?
 
@@ -64,6 +64,7 @@ IsReady = Pattern("SB_MyTurn.png"):similar(0.73)
 BackButton = Pattern("backbutton.png"):similar(0.8)
 boss = Pattern("bossbattle.png"):similar(0.6)
 battle_transition = Pattern("battle_transition.png"):similar(0.75)
+text_continue = Pattern("text_continue.png")
 
 buttonreg = { }									-- universal table for button regions learning
 buttonreg_learned = { }							-- boolean to set if button is learned. Useful if you want to set button regions manually first then let the script refine it
@@ -78,6 +79,7 @@ buttonreg[connect_ok] = Region(30,340,545,320)
 buttonreg[no_request] = Region(5,635,290,165)
 buttonreg[esperfilled] = Region(540,440,60,180)
 buttonreg[yesbtn] = Region(5,80,590,760)		-- yesbtn is used in multiple locations. Do not learn.
+buttonreg[text_continue] = Region(5,80,590,760)		-- text_continue is used in multiple locations. Do not learn.
 buttonreg[boss] = Region(0,40,300,440)
 buttonreg[battle_transition] = Region(350,80,250,360)
 
@@ -85,6 +87,7 @@ buttonreg[battle_transition] = Region(350,80,250,360)
 buttonreg_learned[results_big] = true
 buttonreg_learned[yesbtn] = true
 buttonreg_learned[closebtn] = true
+buttonreg_learned[text_continue] = true
 
 findMoveReg = nil
 findMoveSet = false
@@ -1568,6 +1571,7 @@ function battleAuto()
 		usePreviousSnap(true)
 		if(tempi%19==0) then connectionCheckNoWait() end
 		if(tempi%17==0 and existsL(revive,0)) then break end
+		existsClickL(text_continue,0)
 		if(existsL(results_big,0)) then break end
 		if(existsL(questclear,0)) then break end
 		if(not existsL(menuinbattle,0)) then break end
@@ -1620,6 +1624,7 @@ function battleEsper()
 		if(tempi%17==0 and exists(revive,0)) then break end
 		if(existsL(results_big,0)) then click(getLastMatch()) ; click(center) ; click(Location(300,890 * aRatio)) ; break end
 		if(existsL(questclear,0)) then break end
+		existsClickL(text_continue,0)
 		if(not existsL(menuinbattle,0)) then break end
 	end
 	usePreviousSnap(false)
@@ -1854,12 +1859,14 @@ function smartBattle()
 	local round = 0
 	local boss_found = false
 	local boss_battle_check_delay = 0
+	local iterations = 0
 
 	while(sb_reg == nil) do
 		defineSBreg()
 	end
 
 	while(true) do
+		iterations = iterations + 1
 		usePreviousSnap(false)
 		if (existsL(boss,0.25+lagx*0.25+boss_battle_check_delay)) then boss_found = true end
 		while (boss_battle_check_delay > 0 and not boss_found) do
@@ -1870,6 +1877,7 @@ function smartBattle()
 		end
 		usePreviousSnap(true)
 		if(existsL(revive,0)) then break end
+		if(iterations%7 == 0) then existsClickL(text_continue,0) end
 		if(not existsL(menuinbattle,0)) then break end
 		if(sb_reg:exists(IsReady,0)) then
 			usePreviousSnap(false)
