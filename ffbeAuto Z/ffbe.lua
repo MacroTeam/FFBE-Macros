@@ -4,7 +4,7 @@
 -- Nox
 -- http://ankulua.boards.net/thread/167/brave-exvius-ffbeauto-farming-explorations
 
-ver = "ffbeAuto Z14"
+ver = "ffbeAuto Z16"
 ALver = "0"															-- AnkuLua version string
 ALpro = true														-- is this AnkuLua a Pro and not trial?
 
@@ -65,6 +65,21 @@ BackButton = Pattern("backbutton.png"):similar(0.8)
 boss = Pattern("bossbattle.png"):similar(0.6)
 battle_transition = Pattern("battle_transition.png"):similar(0.75)
 text_continue = Pattern("text_continue.png")
+arena_begin = Pattern("arena_begin.png")
+arena_emptyorbs = Pattern("arena_emptyorbs.png")
+arena_lost = Pattern("arena_lost.png")
+arena_no = Pattern("arena_no.png")
+arena_ok = Pattern("arena_ok.png")
+arena_opponent = Pattern("arena_opponent.png")
+arena_ratio = Pattern("arena_ratio.png")
+arena_resultsok1 = Pattern("arena_resultsok1.png")
+arena_resultsok2 = Pattern("arena_resultsok2.png")
+arena_resultsok3 = Pattern("arena_resultsok3.png")
+arena_setup = Pattern("arena_setup.png")
+arena_won = Pattern("arena_won.png")
+arena_yes = Pattern("arena_yes.png")
+arena_youcannotgoback = Pattern("arena_youcannotgoback.png")
+arena_entryyes = Pattern("arena_entryyes.png")
 
 buttonreg = { }									-- universal table for button regions learning
 buttonreg_learned = { }							-- boolean to set if button is learned. Useful if you want to set button regions manually first then let the script refine it
@@ -82,12 +97,18 @@ buttonreg[yesbtn] = Region(5,80,590,760)		-- yesbtn is used in multiple location
 buttonreg[text_continue] = Region(5,80,590,760)		-- text_continue is used in multiple locations. Do not learn.
 buttonreg[boss] = Region(0,40,300,440)
 buttonreg[battle_transition] = Region(350,80,250,360)
+buttonreg[arena_resultsok1] = Region(60,80,480,980)		-- OK is used in multiple locations. Do not learn.
+buttonreg[arena_resultsok2] = Region(60,80,480,980)		
+buttonreg[arena_resultsok3] = Region(60,80,480,980)		
 
 -- Set fixed buttons
 buttonreg_learned[results_big] = true
 buttonreg_learned[yesbtn] = true
 buttonreg_learned[closebtn] = true
 buttonreg_learned[text_continue] = true
+buttonreg_learned[arena_resultsok1] = true
+buttonreg_learned[arena_resultsok2] = true
+buttonreg_learned[arena_resultsok3] = true
 
 findMoveReg = nil
 findMoveSet = false
@@ -99,6 +120,7 @@ friendsreg = nil
 friendsBONUSreg = nil
 
 lagx = 1.0										-- Device lag multiplier value. 1.0 for high end devices.
+arena_mode = false								-- Is Arena selected?
 help_screen = false
 use_bonus_unit = false
 use_highest_atk_companion = false
@@ -109,6 +131,10 @@ use_smart_battle_2nd = true
 use_smart_battle_2nd_round = 3
 use_smart_battle_boss = true
 use_smart_battle_boss_2nd = true
+use_smart_battle_companion = true
+use_smart_battle_companion_2nd = true
+use_smart_battle_companion_mp = 10
+use_smart_battle_companion_2nd_mp = 15
 use_smart_battle_boss_companion = true
 use_smart_battle_boss_companion_2nd = true
 use_smart_battle_boss_companion_mp = 30
@@ -160,6 +186,8 @@ rain = {Pattern("rain_up.png"):similar(0.9),Pattern("rain_down.png"):similar(0.9
 
 sb_skills = {}
 sb_skills["None"] = false
+sb_skills["Any Attack"] = Pattern("SB_Sword.png")
+sb_skills["Any AoE Attack"] = Pattern("SB_Sword.png")
 sb_skills["Katana"] = Pattern("SB_Sword.png")
 sb_skills["Sword"] = Pattern("SB_Break.png")
 sb_skills["Blast"] = Pattern("SB_Blast.png"):similar(0.7)
@@ -186,12 +214,29 @@ sb_skills["Sing"] = Pattern("SB_Sing.png")
 sb_skills["Elements"] = Pattern("SB_Elements.png")
 sb_skills["Status"] = Pattern("SB_Status.png"):similar(0.7)
 sb_skills["Meteor"] = Pattern("SB_Meteor.png")
+sb_skills["Alterna"] = Pattern("SB_Alterna.png")
 sb_skills["Cover (Noctis)"] = Pattern("SB_Cover.png")
+sb_skills["Critical"] = Pattern("SB_Critical.png")
+sb_skills["Rapid Fire"] = Pattern("SB_RapidFire.png")
 
 -- Not in table
 SB_MP = Pattern("SB_MP.png"):similar(0.7)
 SB_Raise = Pattern("SB_Raise.png"):similar(0.7)
-SB_Damage = {Pattern("SB_Damage1.png"):similar(0.7),Pattern("SB_Damage2.png"):similar(0.7)}
+SB_Enemies = {Pattern("SB_Enemies1.png"):similar(0.8),Pattern("SB_Enemies2.png"):similar(0.8),Pattern("SB_Enemies3.png"):similar(0.8)}
+SB_Damage = {Pattern("SB_Damage1.png"):similar(0.7),Pattern("SB_Damage2.png"):similar(0.7),Pattern("SB_Damage3.png"):similar(0.7),Pattern("SB_Damage4.png"):similar(0.7),Pattern("SB_Damage5.png"):similar(0.7)}
+SB_AttackIcons = {Pattern("SB_Sword.png"):similar(0.65),Pattern("SB_Break.png"):similar(0.65),Pattern("SB_Blast.png"):similar(0.65),Pattern("SB_Aero.png"):similar(0.65),
+			   Pattern("SB_Shot.png"):similar(0.65),Pattern("SB_Fire.png"):similar(0.65),Pattern("SB_Blizzard.png"):similar(0.65),Pattern("SB_Thunder.png"):similar(0.65),
+			   Pattern("SB_Holy.png"):similar(0.65),Pattern("SB_Dark.png"):similar(0.65),Pattern("SB_Drain.png"):similar(0.65),Pattern("SB_Stone.png"):similar(0.65),
+			   Pattern("SB_Water.png"):similar(0.65),Pattern("SB_Poison.png"):similar(0.65),Pattern("SB_Kick.png"):similar(0.65),Pattern("SB_Ultima.png"):similar(0.65),
+			   Pattern("SB_Dance.png"):similar(0.65),Pattern("SB_Meteor.png"):similar(0.65),Pattern("SB_Alterna.png"):similar(0.65),Pattern("SB_RapidFire.png"):similar(0.65),
+			   Pattern("SB_Critical.png"):similar(0.65)
+			   }			  
+SB_NonAttackIcons = {Pattern("SB_Raise.png"):similar(0.7), Pattern("SB_Cover.png"):similar(0.7),Pattern("SB_Curaja.png"):similar(0.7),Pattern("SB_Sing.png"):similar(0.7),
+					Pattern("SB_Elements.png"):similar(0.7), Pattern("SB_Buff.png"):similar(0.7),Pattern("SB_Cheer.png"):similar(0.7),Pattern("SB_Provoke.png"):similar(0.7),
+					Pattern("SB_Block.png"):similar(0.7), Pattern("SB_Steal.png"):similar(0.7) 
+					}						   
+arena_skilluse = {}										-- Skill to use
+arena_skillmp = {}											-- MP match
 
 sb_skilluse = {}										-- Skill to use
 sb_skillmp = {}											-- MP match
@@ -208,6 +253,7 @@ sb_reg = nil											-- Region for the entire controls
 special_farm = {}
 special_farm["dungeon_finder"] = Location(0,0)
 special_farm["free_farm"] = exploration
+special_farm["arena"] = 0
 special_farm["earth_shrine_entrance_speedmode"] = Pattern("earth_shrine_entrance.png")
 		
 -- List of dungeons other than special functions
@@ -294,7 +340,7 @@ function runlog(str,istxt)
 		setHighlightTextStyle (0xffffffff, 0xff000000, 22)
 		debug_reg:highlight(str,0.5)
 	else
-		toast(str)
+--		toast(str)
 	end
 
 	str:save("run.log")
@@ -1025,6 +1071,10 @@ function ese_speed(location)
 				usePreviousSnap(true)
 			end
 
+			connectionCheckNoWait()
+			
+			if (depart_count == 1) then wait(lagx*0.3) end
+			
 			if(existsClickL(special_farm["earth_shrine_entrance_speedmode"],0) and debug_mode) then runlog("Selected",true) end
 					
 			--out of energy handler
@@ -1041,11 +1091,15 @@ function ese_speed(location)
 				end
 			end
 
+			if (depart_count == 1) then wait(lagx*0.3) end
+
 			-- next button
 			if(existsL(backbtn,0)) then 
 				if(existsClickL(next_i,0) and debug_mode) then runlog("Next!", true) end
 			end
 		
+			if (depart_count == 1) then wait(lagx*0.3) end
+
 			-- companion handler
 			if(func_state == 21 or top_reg:exists(companion,0)) then				 -- DO NOT LEARN BUTTON LOC with this, as it may learn the button when it is still flying!
 				if (func_state ~= 21) then
@@ -1065,17 +1119,18 @@ function ese_speed(location)
 					if(debug_mode) then friendsreg:getLastMatch():highlight(0.2) ; runlog("Companion : Standard", true) end
 					func_state = 0
 				elseif(top_reg:exists(no_companion,0)) then
-					tempbtn = top_reg:getLastMatch()
 					if(debug_mode) then getLastMatch():highlight(0.2) ; runlog("No Companions", true) end
-					click(tempbtn)
+					top_reg:existsClick(no_companion,0)
 					func_state = 0
 				else
 					if(debug_mode) then runlog("Warning : Unknown Companion", true) end
-					click(Location(300,480))
-					func_state = 0
+--					click(Location(300,480))
+--					func_state = 0
 				end
 			end
 			
+			if (depart_count == 1) then wait(lagx*0.3) end
+
 			-- depart handler
 			if(func_state == 31 or bottom_reg:exists(departbtn,0)) then     -- DO NOT LEARN BUTTON LOC with this, as it may learn the button when it is still flying!
 				if (func_state ~= 31) then
@@ -1124,10 +1179,17 @@ function ese_speed(location)
 		connectionCheckNoWait()
 	end
 
+	--extra wait for really checking if we're ready
+	while(true) do
+		if(existsL(menuinbattle,0)) then break end
+	end
+
 	--create regions
 	while(sb_reg == nil) do
 		defineSBreg()
 	end
+	
+	if (depart_count == 1) then wait(lagx*0.3) end
 	
     --battle functions
 	while(existsL(menuinbattle,0)) do
@@ -1137,6 +1199,7 @@ function ese_speed(location)
 
 	-- Handle all the connection stuff and gameovers first.
 	for i=0, 3000000 do
+		if (depart_count == 1) then wait(lagx*0.2) end
 		usePreviousSnap(false)
 		if(existsClickL(results_big,0)) then break end		
 		usePreviousSnap(true)
@@ -1146,6 +1209,7 @@ function ese_speed(location)
 	-- Then do the clicking
 	
 	for i=0, 3000000 do
+		if (depart_count == 1) then wait(lagx*0.5) end
 		usePreviousSnap(false)
 		if(existsL(backbtn,0)) then break end
 		usePreviousSnap(true)
@@ -1161,14 +1225,87 @@ function ese_speed(location)
 			runlog("Rank Up")
 		elseif (i%7 == 6 and existsClickL(closebtn,0) and debug_mode) then
 			runlog("Close Button")
-		elseif ((i%5 == 2 or buttonreg[no_request] ~= nil) and existsClickL(no_request,0) and debug_mode) then
-			runlog("No Request")
+		elseif ((i%5 == 2 or buttonreg_learned[no_request] == true)) then
+			if (buttonreg_learned[no_request] == false) then
+				if (exists(no_request,0)) then
+					wait(lagx * 0.75)													-- wait for animation
+					usePreviousSnap(false)
+					existsClickL(no_request,0)
+					if (debug_mode) then runlog("No Request Learn") end
+				end
+			else
+				if (debug_mode) then runlog("No Request") end
+				existsClickL(no_request,0)
+			end
 		end
 
 	end
 
 	usePreviousSnap(false)
 end
+
+-- Main arena function
+function arena()
+	local func_state = 0
+	local findRatio = nil
+	
+	while (true) do
+		wait(lagx*0.5)
+		usePreviousSnap(false)
+		connectionCheckNoWait()
+		usePreviousSnap(true)
+		if (exists(arena_emptyorbs)) then
+			existsClickL(arena_no)
+			math.randomseed(os.time()); toast(waitmsg[math.random(#waitmsg)].. " now... Come back later."); wait(60+lagx*math.random(40,95))
+		end
+		if (func_state == 0) then
+			existsClickL(arena_ok)
+			existsClickL(arena_setup)
+			if (existsL(arena_opponent)) then
+				func_state = 1
+			end
+		elseif (func_state == 1 ) then
+			if (exists(arena_ratio)) then
+				findRatio = findAllNoFindException(arena_ratio)
+				dragDrop(bottom,top)
+				dragDrop(bottom,top)
+				dragDrop(bottom,top)
+				wait(lagx*0.2+0.3)
+				click(findRatio[#findRatio])
+				func_state = 2
+			end
+		elseif (func_state == 2 ) then
+			if (existsL(arena_youcannotgoback)) then existsClick(arena_entryyes,0) end
+			if (existsClickL(arena_begin)) then break end
+		end
+	end
+	
+	--waiting for connection here
+	while(true) do
+		usePreviousSnap(false)
+		if(existsL(menuinbattle,lagx/3)) then break end
+		usePreviousSnap(true)
+		if(existsL(menu,0)) then break end
+		connectionCheckNoWait()
+		existsClickL(arena_begin)
+	end
+
+	smartBattle_arena()
+	
+	while(true) do
+		usePreviousSnap(false)
+		connectionCheckNoWait()
+		usePreviousSnap(true)
+		existsClickL(autobtn)
+		existsClickL(arena_won)
+		existsClickL(arena_lost)
+		existsClickL(arena_resultsok1)
+		existsClickL(arena_resultsok2)
+		existsClickL(arena_resultsok3)
+		if (existsL(arena_setup) or existsL(arena_opponent) or existsL(arena_ok)) then break end
+	end
+end
+
 
 -- Main function for everything dungeons, explorations, vortexes, and raids.
 -- Always assume start from mission selection screen.
@@ -1630,14 +1767,168 @@ function battleEsper()
 	usePreviousSnap(false)
 end
 
+-- Helper function for Attack text skill finding
+function smartBattle_isAttack(text_reg)
+	for t=1,#SB_Damage do 
+		if(text_reg:exists(SB_Damage[t],0)) then 
+			return true
+		end
+	end
+	return false
+end
+
+-- Helper function for Attack Icon skill finding
+function smartBattle_isAttackIcon(icon_reg)
+	for t=1,#SB_AttackIcons do 
+		if(icon_reg:exists(SB_AttackIcons[t],0)) then 
+			return true
+		end
+	end
+	return false
+end
+
+function smartBattle_isNotAttackIcon(icon_reg)
+	for t=1,#SB_NonAttackIcons do 
+		if(icon_reg:exists(SB_NonAttackIcons[t],0)) then 
+			return true
+		end
+	end
+	return false
+end
+
+-- Helper function for AoE skill finding
+function smartBattle_isAoE(text_reg)
+	for t=1,#SB_Enemies do 
+		if(text_reg:exists(SB_Enemies[t],0)) then 
+			return true
+		end
+	end
+	return false
+end
+
 -- New function smart battle will select skills.
 -- choose function for smartBattle
 -- Needs to have regions defined first
 
 function smartBattle_choose(skilluse, skillmp)
-	for i=1, (#sb_regunit-1) do
+	local selection = nil
+	local selectionmp = 0
+	local checkValue = 0				-- add all MPs found in a formula and if it's the same then quit (we reached the end of the skill list)
+	local checkValue_last = 12345
+	local numunits = #sb_regunit-1
+	local detectMaxMP = 0
+	local mp = 0
+	local retval = false
+	
+	if (companion_used == false) then numunits = #sb_regunit end 
+	
+	if (debug_mode) then runlog("Num Units "..numunits) end
+	
+	for i=1, (numunits) do
 		if (debug_mode) then sb_regunit[i]:highlight(0.2) end
 		if (skilluse[i] == "None") then
+		elseif (skilluse[i] == "Any Attack") or (skilluse[i] == "Any AoE Attack") then
+			selectionmp = 0
+			detectMaxMP = 0
+			checkValue = 0
+			retval = false
+			usePreviousSnap(false)
+			if (sb_regunit[i]:exists(IsReady,lagx*0.75)) then
+				skillSuccess = false
+				skillTries = 0
+				if (debug_mode) then runlog("Unit #"..i.." action. MP : "..skillmp[i], true) end
+				setDragDropStepCount(50)
+				setDragDropStepInterval(1)
+				setDragDropTiming(100,20)
+				dragDrop(Location(sb_regunit[i]:getX() + 15, sb_regunit[i]:getY() + (sb_regunit[i]:getH()/2)), Location(sb_regunit[i]:getX() + sb_regunit[i]:getW() - 15, sb_regunit[i]:getY() + (sb_regunit[i]:getH()/2)))
+				usePreviousSnap(false)
+				setDragDropStepCount(145+lagx*75)
+				setDragDropStepInterval(1)
+				setDragDropTiming(100,400+lagx*50)
+				wait(0.2+lagx*0.25)
+				while(true) do
+					if (skillSuccess) then
+						break
+					elseif (sb_reg:exists(SB_MP, 0)) then
+						usePreviousSnap(true)
+						checkValue = 0
+						findSkills = regionFindAllNoFindException(sb_reg,SB_MP)
+						for n, m in ipairs(findSkills) do
+							if (debug_mode) then m:highlight(0.2) end
+							mp_reg = Region(m:getX()+m:getW(), m:getY()-10, 75,m:getH()+20)
+							if (debug_mode) then mp_reg:highlight(0.2) end								
+							mp, retval = numberOCRNoFindException(mp_reg,"mp")
+							if (retval and debug_mode) then runlog("MP found : "..mp,true) end								
+							if (retval and mp >= skillmp[i]) then
+								icon_reg = Region(m:getX()-20, m:getY()-90, 100,100)
+								text_reg = Region(m:getX()-20, m:getY()-90, 290,100)
+								if (debug_mode) then icon_reg:highlight(0.2) ; text_reg:highlight(0.2) end														
+								if (mp > selectionmp and not smartBattle_isNotAttackIcon(icon_reg) and smartBattle_isAttack(text_reg)) then
+									if (((skilluse[i] == "Any AoE Attack") and smartBattle_isAoE(text_reg)) or (skilluse[i] == "Any Attack")) then
+										if(debug_mode) then runlog("Select this.", true) end
+										selection = text_reg:getLastMatch()
+										selectionmp = mp
+										skillSuccess = true
+										break
+									elseif (mp > detectMaxMP) then
+										detectMaxMP = mp
+									end
+								end
+							elseif (retval) then
+								checkValue = checkValue + mp*n
+							end					
+						end
+
+						if (skillSuccess) then 
+							click(selection)
+							wait(0.2+lagx*0.25)
+							-- ALWAYS self click to be safe from cure/buff/sing skills etc.
+							click(Location(sb_regunit[i]:getX() + sb_regunit[i]:getW()/2, sb_regunit[i]:getY() + (sb_regunit[i]:getH()/2)))
+							wait(0.05+lagx*0.05)
+							break 
+						elseif (skillTries > 5 or checkValue == checkValue_last) then
+							if (arena_mode and skilluse[i] == "Any AoE Attack") then
+								if (arena_mode and skillmp[i] > 16) then
+									skillmp[i] = skillmp[i]*0.5
+								else
+									skilluse[i] = "Any Attack"
+									skillmp[i] = detectMaxMP*0.8								
+								end
+								skillTries = 1
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+								dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) ) 
+								wait(0.2+lagx*0.15)
+							else
+								if (debug_mode) then runlog("Exists Click Back",true) end
+								wait(0.05+lagx*0.05)
+								if (existsClick(BackButton, 0)) then wait(0.25+lagx*0.35) ; break end
+							end
+						else
+							if (debug_mode) then runlog("Found not successful.",true) end
+							dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+sb_reg:getH()-33 ) , Location( sb_reg:getX()+sb_reg:getW()/2 , sb_reg:getY()+25 ) ) 
+							wait(0.2+lagx*0.15)
+							usePreviousSnap(false)
+							skillTries = skillTries + 1
+						end				
+						checkValue_last = checkValue
+					else
+						if (debug_mode) then runlog("Not found.",true) end
+						dragDrop(Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+sb_reg:getH()-33 ), Location(sb_reg:getX()+sb_reg:getW()/2,sb_reg:getY()+25))
+						wait(0.2+lagx*0.15)
+						usePreviousSnap(false)
+						skillTries = skillTries + 1
+					end
+				end
+			end
 		elseif (sb_regunit[i]:exists(IsReady,lagx*0.75)) then
 			skillToUse = sb_skills[skilluse[i]]
 			skillSuccess = false
@@ -1667,6 +1958,15 @@ function smartBattle_choose(skilluse, skillmp)
 						mp, retval = numberOCRNoFindException(mp_reg,"mp")
 						if (retval and debug_mode) then runlog("MP found : "..mp,true) end								
 						if (retval and mp == skillmp[i]) then
+							click(m)
+							skillSuccess = true
+							if (skilluse[i] == "Cure" or skilluse[i] == "Buff" or skilluse[i] == "Sing" or skilluse[i] == "Dance" or skilluse[i] == "Elements" or skilluse[i] == "Cover (Noctis)") then
+								wait(0.05+lagx*0.05)
+								click(Location(sb_regunit[i]:getX() + sb_regunit[i]:getW()/2, sb_regunit[i]:getY() + (sb_regunit[i]:getH()/2)))
+							end
+							wait(0.2+lagx*0.25)
+							break
+						elseif (retval and ((skillmp[i]%5 == 0 and skillmp[i]%10 ~= 0) or skillmp[i] == 50) and (skillmp[i] == mp+1 or skillmp[i] == mp+11 or ((skillmp[i] == 50 or skillmp[i] == 55) and skillmp[i] == mp+10))) then
 							click(m)
 							skillSuccess = true
 							if (skilluse[i] == "Cure" or skilluse[i] == "Buff" or skilluse[i] == "Sing" or skilluse[i] == "Dance" or skilluse[i] == "Elements" or skilluse[i] == "Cover (Noctis)") then
@@ -1708,13 +2008,15 @@ end
 -- Needs to have regions defined first
 -- Just select based on minimum MP. Finds first skill with more than x MP. Then check if it's a Raise or not damage.
 
-function smartBattle_companion(skillmp)
+function smartBattle_companion(skillmp, mode)
 	local selection = nil
 	local selectionmp = 0
 	local checkValue = 0				-- add all MPs found in a formula and if it's the same then quit (we reached the end of the skill list)
 	local checkValue_last = 12345
+	local retval = false
+	local mp = 0
 
-	if (companion_used == false) then return end 					-- don't use when unit is less than 6.
+	if (companion_used == false) then return end 
 	
 	
 	i = #sb_regunit
@@ -1747,20 +2049,22 @@ function smartBattle_companion(skillmp)
 					if (debug_mode) then mp_reg:highlight(0.2) end								
 					mp, retval = numberOCRNoFindException(mp_reg,"mp")
 					if (retval and debug_mode) then runlog("MP found : "..mp,true) end								
-					if (retval and mp >= skillmp) then
+					if (retval and mp ~= nil and mp >= skillmp) then
 						icon_reg = Region(m:getX()-20, m:getY()-90, 100,100)
 						text_reg = Region(m:getX()-20, m:getY()-90, 290,100)
 						if (debug_mode) then icon_reg:highlight(0.2) ; text_reg:highlight(0.2) end														
 						if (icon_reg:exists(SB_Raise,0)) then                    -- Skills to NEVER use, i.e Raise type.
 							if (debug_mode) then runlog("Exists Raise",true) end														
-						else							
+						elseif (not smartBattle_isNotAttackIcon(icon_reg)) then							
 							for t=1,#SB_Damage do 
 								if(text_reg:exists(SB_Damage[t],0) and mp > selectionmp) then 
-									if(debug_mode) then runlog("Select this.", true) end
-									selection = text_reg:getLastMatch()
-									selectionmp = mp
-									skillSuccess = true
-									break
+									if (mode == 1 or smartBattle_isAoE(text_reg)) then
+										if(debug_mode) then runlog("Select this.", true) end
+										selection = text_reg:getLastMatch()
+										selectionmp = mp
+										skillSuccess = true
+										break
+									end
 								end
 							end
 						end
@@ -1885,6 +2189,10 @@ function smartBattle()
 				wait(0.1)
 				smartBattle_choose(sb_skilluse, sb_skillmp)
 				wait(0.05+lagx*0.05)
+				if(use_smart_battle_companion) then
+					smartBattle_companion(use_smart_battle_companion_mp,2)
+					wait(0.05+lagx*0.05)
+				end
 				existsClickL(autobtn,0)
 				wait(0.15+lagx*0.15)
 				existsClickL(autoonbtn,0)
@@ -1904,6 +2212,10 @@ function smartBattle()
 				wait(0.1)
 				smartBattle_choose(sb_skilluse2, sb_skillmp2)
 				wait(0.05+lagx*0.05)
+				if(use_smart_battle_companion_2nd) then
+					smartBattle_companion(use_smart_battle_companion_2nd_mp,2)
+					wait(0.05+lagx*0.05)
+				end
 				existsClickL(autobtn,0)
 				wait(0.15+lagx*0.15)
 				existsClickL(autoonbtn,0)
@@ -1922,7 +2234,7 @@ function smartBattle()
 				smartBattle_choose(sb_skilluse_boss, sb_skillmp_boss)
 				wait(0.05+lagx*0.05)
 				if(use_smart_battle_boss_companion) then
-					smartBattle_companion(use_smart_battle_boss_companion_mp)
+					smartBattle_companion(use_smart_battle_boss_companion_mp,1)
 					wait(0.05+lagx*0.05)
 				end
 				existsClickL(autobtn,0)
@@ -1941,7 +2253,7 @@ function smartBattle()
 				smartBattle_choose(sb_skilluse_boss2, sb_skillmp_boss2)
 				wait(0.05+lagx*0.05)
 				if(use_smart_battle_boss_companion_2nd) then
-					smartBattle_companion(use_smart_battle_boss_companion_2nd_mp)
+					smartBattle_companion(use_smart_battle_boss_companion_2nd_mp,1)
 					wait(0.05+lagx*0.05)
 				end
 				existsClickL(autobtn,0)
@@ -1961,6 +2273,70 @@ function smartBattle()
 			boss_battle_check_delay = 0.65 + lagx*0.65
 		else
 			boss_battle_check_delay = 0
+		end
+	end
+end
+
+
+-- Arena Battle
+
+function smartBattle_arena()
+	local findUnit = nil
+	local findSkills = nil
+	local skillToUse = nil
+	local mp = 0
+	local mp_reg = nil
+	local retval = false
+	local skillSuccess = false
+	local skillTries = 0
+	local state = 0
+	local round = 0
+	local iterations = 0
+
+	while(sb_reg == nil) do
+		defineSBreg()
+	end
+	
+	while(true) do
+		iterations = iterations + 1
+		usePreviousSnap(false)
+		if (sb_reg == nil or #sb_regunit < 5) then defineSBreg() end
+		if(not existsL(menuinbattle,0)) then break end
+		usePreviousSnap(true)
+		if(existsL(arena_lost,0)) then break end
+		if(existsL(arena_won,0)) then break end
+		if(sb_reg:exists(IsReady,0) and #sb_regunit > 0) then
+			usePreviousSnap(false)
+			if(state == 0) then		-- 0-9 are states for first smart battle handling
+				wait(0.1)
+				for i=1, (#sb_regunit) do
+					arena_skilluse[i] = "Any AoE Attack"
+					arena_skillmp[i] = 28
+				end
+				smartBattle_choose(arena_skilluse, arena_skillmp)
+--				state = 1
+				state = 99
+				existsClickL(autobtn,0)				
+				round = round + 1
+				wait(lagx*0.5)
+				existsClickL(autoonbtn,0)				
+			elseif(state == 1) then
+				wait(0.1)
+				for i=1, (#sb_regunit) do
+					arena_skilluse[i] = "Any Attack"
+					arena_skillmp[i] = math.random(10,24)
+				end
+				smartBattle_choose(arena_skilluse, arena_skillmp)
+				state = 99
+				existsClickL(autobtn,0)				
+				round = round + 1
+				wait(lagx*0.5)			
+				existsClickL(autoonbtn,0)				
+			elseif(state == 99) then
+				usePreviousSnap(true)
+				round = round + 1
+				existsClickL(repeatbtn,0)				
+			end
 		end
 	end
 end
@@ -2076,7 +2452,11 @@ function helpscreen()
 		newRow()
 		addTextView("Status is for skills such as Trine and Binding Cold.")	
 		newRow()
-		addTextView("Cover (Noctis) is self-explanatory.")	
+		addTextView("Rapid Fire is for skills such as King's Rapid Fire")	
+		newRow()
+		addTextView("Critical is for skills such as Finisher")	
+		newRow()
+		addTextView("Cover (Noctis) is self-explanatory, as well as Alterna.")	
 		newRow()
 		if (ALver >= "6.8.0") then
 			addSeparator()
@@ -2244,15 +2624,30 @@ if string.match(farmloc, "speedmode") then
 elseif (battle_mode == 3 and (string.match(farmloc, "exploration") or string.match(farmloc, "custom_"))) then 
 	toast("Explorations can't use Custom Battle, reverting to Esper mode")
 	battle_mode = 2
+elseif (battle_mode == 3 and farmloc == "arena") then 
+--	cbattlemenu(arena_skilluse,arena_skillmp,"Custom Battle - Arena","arena")	
 elseif (battle_mode == 3) then
 
 	use_smart_battle = true
 
 	dialogInit()
+	addTextView("\t\t")
+	addCheckBox("use_smart_battle_companion", "Use area damage skills for companions on first turn?", true)
+	newRow()
+	addTextView("\t\t\t\tMP : ")
+	addEditNumber("use_smart_battle_companion_mp",10)
+	newRow()
+	newRow()
 	addCheckBox("use_smart_battle_2nd", "Use different actions after x rounds below?", true)
 	newRow()
 	addTextView("\t\tRounds : ")
 	addEditNumber("use_smart_battle_2nd_round",3)
+	newRow()
+	addTextView("\t\t")
+	addCheckBox("use_smart_battle_companion_2nd", "Use area damage skills for companions on above?", true)
+	newRow()
+	addTextView("\t\t\t\tMP : ")
+	addEditNumber("use_smart_battle_companion_2nd_mp",10)
 	newRow()
 	newRow()
 	addCheckBox("use_smart_battle_boss", "Use different actions on BOSS?", true)
@@ -2321,6 +2716,9 @@ while true do
 	if (debug_mode) then runlog("Depart #"..depart_count, true) end
 	if (farmloc == "earth_shrine_entrance_speedmode") then
 		ese_speed(farmloc)
+	elseif (farmloc == "arena") then
+		arena_mode = true
+		arena()
 	else
 		fFarm(farmloc)
 	end
